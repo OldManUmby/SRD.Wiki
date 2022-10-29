@@ -35,7 +35,7 @@ search:
 # Aux links for the upper right navigation
 aux_links:
   "View the GitHub Project":
-    - "//github.com/OldManUmby/DND.SRD.Wiki"
+    - "//github.com/OldManUmby/SRD.Wiki"
 
 # Makes Aux links open in a new tab. Default is false
 aux_links_new_tab: true
