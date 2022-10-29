@@ -32,6 +32,12 @@ search:
   # Supports true or false (default)
   button: false
 
+  # External navigation links
+nav_external_links:
+  - title: D&D SRD Wiki
+    url: https://dnd.srd.wiki
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+
 # Aux links for the upper right navigation
 aux_links:
   "View the GitHub Project":
