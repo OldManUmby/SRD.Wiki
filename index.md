@@ -1,4 +1,4 @@
-# THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION!
+# UNDER CONSTRUCTION!
 
 If you are looking for the Dungeons & Dragons 5th Edition SRD REmastered website, please visit [https://dnd.srd.wiki](https://dnd.srd.wiki).
 
