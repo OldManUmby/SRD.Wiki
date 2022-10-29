@@ -1,8 +1,8 @@
 ![REmastered Logo](RE&.logo.png)
 
-![Fan Site Kit Image](ToDKeyArt2.jpg)
+# THIS WEBSITE IS CURRENTLY UNDER CONSTRUCTION!
 
-View the [Changelog](https://github.com/OldManUmby/DND.SRD.Wiki/blob/master/Changelog.md)
+If you are looking for the official website for the D&D 5E SRD REmastered, please visit [https://dnd.srd.wiki](https://dnd.srd.wiki).
 
 # REorganized. REpublished. REmastered!
 
