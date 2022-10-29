@@ -1,10 +1,10 @@
-# UNDER CONSTRUCTION!
+![SRD.wiki logo](SRDwiki.logo.png)
 
-If you are looking for the Dungeons & Dragons 5th Edition SRD REmastered website, please visit [https://dnd.srd.wiki](https://dnd.srd.wiki).
+Welcome to the SRD Wiki. This site is dedicated to the conversion of various OGL roleplaying game rulesets.
+
+> If you are looking for the Dungeons & Dragons 5th Edition SRD REmastered website, please visit [https://dnd.srd.wiki](https://dnd.srd.wiki).
 
 # REorganized. REpublished. REmastered!
-
----
 
 ## What is an SRD?
 
