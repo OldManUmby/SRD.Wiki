@@ -2,8 +2,6 @@
 
 Welcome to the SRD Wiki. This site is dedicated to the Markdown conversion of various OGL roleplaying game rulesets.
 
-> If you are looking for the Dungeons & Dragons 5th Edition SRD REmastered website, please visit [https://dnd.srd.wiki](https://dnd.srd.wiki).
-
 # REorganized. REpublished. REmastered!
 
 ---
