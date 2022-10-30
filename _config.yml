@@ -34,8 +34,11 @@ search:
 
   # External navigation links
 nav_external_links:
-  - title: D&D SRD Wiki
+  - title: Dungeons & Dragons SRD
     url: https://dnd.srd.wiki
+    hide_icon: false # set to true to hide the external link icon - defaults to false
+  - title: Blades in the Dark SRD
+    url: https://github.com/amazingrando/blades-in-the-dark-srd-content
     hide_icon: false # set to true to hide the external link icon - defaults to false
 
 # Aux links for the upper right navigation
