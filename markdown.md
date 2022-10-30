@@ -668,18 +668,6 @@ If your Markdown application doesn’t support HTML, you could try placing the c
 *A single-track trail outside of Albuquerque, New Mexico.*
 ```
 
-## Link Targets
-
-Some people like creating links that open in new tabs or windows. The Markdown syntax for links doesn’t allow you to specify the `target` attribute, but if your Markdown processor supports HTML, you can use HTML to create these links.
-
-```
-<a href="https://www.srd.wiki/markdown" target="_blank">Learn Markdown!</a>
-```
-
-The rendered output looks like this:
-
-[Learn Markdown!](https://www.srd.wiki/markdown)
-
 ## Symbols
 
 Markdown doesn’t provide a special syntax for symbols. However, in most cases, you can copy and paste whatever symbol you want to use into your Markdown document. For example, if you need to display Pi (π), just find the symbol on a webpage and copy and paste it into your document. The symbol should appear as expected in the rendered output.
@@ -700,46 +688,6 @@ Here’s a partial list of HTML entities for symbols:
 - Pi (π) — `π`
 
 For a complete list of available HTML entities, refer to Wikipedia’s page on HTML entities.
-
-## Table Formatting
-
-Markdown tables are notoriously finicky. You can’t use many Markdown syntax elements to format the text in table cells. But there are workarounds for at least two common table issues: Line breaks and lists.
-
-### Line Breaks Within Table Cells
-
-You can separate paragraphs within a table cell by using one or more `<br>` HTML tags.
-
-```
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title |
-| Paragraph   | First paragraph. <br><br> Second paragraph. |
-```
-
-The rendered output looks like this:
-
-| Syntax    | Description                          |
-| --------- | ------------------------------------ |
-| Header    | Title                                |
-| Paragraph | First paragraph.   Second paragraph. |
-
-### Lists Within Table Cells
-
-You can add a list within a table cell by using HTML tags. This option is not always supported.
-
-```
-| Syntax      | Description |
-| ----------- | ----------- |
-| Header      | Title |
-| List        | Here's a list! <ul><li>Item one.</li><li>Item two.</li></ul> |
-```
-
-The rendered output looks like this:
-
-| Syntax | Description                       |
-| ------ | --------------------------------- |
-| Header | Title                             |
-| List   | Here's a list! Item one.Item two. |
 
 ## Table of Contents
 
