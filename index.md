@@ -14,4 +14,4 @@ Welcome to the SRD Wiki. This site is dedicated to the Markdown conversion of va
 
 ## Why Markdown Format?
 
-**Markdown is a lightweight markup language** with plain text formatting syntax created by [John Gruber](https://daringfireball.net). It is designed so that it can be converted to HTML and many other formats using any number of various Markdown editors. Markdown is often used to format readme files, for writing books, blogs, and messages, or to simply create rich text using a plain text or Markdown editor.
+**Markdown is a lightweight markup language** with plain text formatting syntax created by [John Gruber](https://daringfireball.net). By its very nature, being a plain text file, it is designed to add future-proofing to any set of documents while still maintaining basic text and table formatting options.
