@@ -17,16 +17,35 @@ Nearly all Markdown editors support basic syntax. There are minor variations and
 
 ## Headings
 
-To create a heading, add number signs (`#`) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three (`<h3>`), use three number signs (e.g., `### My Header`).
+To create a heading, add number signs (`#`) in front of a word or phrase. The number of number signs you use should correspond to the heading level. For example, to create a heading level three, use three number signs (e.g., `### My Header`).
 
-| Markdown                 | Rendered Output |
-| ------------------------ | --------------- |
-| `# Heading level 1`      | Heading level 1 |
-| `## Heading level 2`     | Heading level 2 |
-| `### Heading level 3`    | Heading level 3 |
-| `#### Heading level 4`   | Heading level 4 |
-| `##### Heading level 5`  | Heading level 5 |
-| `###### Heading level 6` | Heading level 6 |
+```
+# Heading Level 1
+
+## Heading Level 2
+
+### Heading Level 3
+
+#### Heading Level 4
+
+##### Heading Level 5
+
+###### Heading Level 6
+```
+
+The rendered output looks like this:
+
+# Heading Level 1
+
+## Heading Level 2
+
+### Heading Level 3
+
+#### Heading Level 4
+
+##### Heading Level 5
+
+###### Heading Level 6
 
 ## Bold
 
