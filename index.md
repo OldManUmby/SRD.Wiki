@@ -1,6 +1,6 @@
 ![SRD.wiki logo](SRDwiki.logo.png)
 
-Welcome to the SRD Wiki. This site is dedicated to the Markdown conversion of various OGL roleplaying game rulesets. All current Markdown SRDs are linked in the main menu; I will update them and add more as time permits.
+Welcome to the SRD Wiki. This site is dedicated to the Markdown conversion of various roleplaying game rulesets. All current Markdown SRDs are linked in the main menu; I will update them and add more as time permits.
 
 # REorganized. REpublished. REmastered!
 
