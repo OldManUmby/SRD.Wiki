@@ -8,7 +8,7 @@ Welcome to the SRD Wiki. This site is dedicated to the Markdown conversion of va
 
 ## What is an SRD?
 
-**A Systems Reference Document (SRD)** contains guidelines for publishing content under the Open-Gaming License (OGL) or another open-style license. The [Dungeons & Dragons SRD](http://dnd.wizards.com/articles/features/systems-reference-document-srd) is the quintessential example, as it provides self-publishing opportunities for individuals, groups, and companies who wish to utilize the official Dungeons & Dragons ruleset in their own published material or games.
+**A Systems Reference Document (SRD)** contains guidelines for publishing content under the Open-Gaming License (OGL), Creative Commons or another open license. The [Dungeons & Dragons SRD](http://dnd.wizards.com/articles/features/systems-reference-document-srd) is the quintessential example, as it provides self-publishing opportunities for individuals, groups, and companies who wish to utilize the official Dungeons & Dragons ruleset in their own published material or games.
 
 ## Why Markdown Format?
 
