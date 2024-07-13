@@ -65,7 +65,7 @@ theme:
     #- navigation.prune
     - navigation.top
     - navigation.footer
-    #- navigation.indexes
+    - navigation.indexes
     - toc.integrate
     - toc.follow
     - search.suggest
