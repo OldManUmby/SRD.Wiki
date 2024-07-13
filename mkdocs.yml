@@ -59,13 +59,13 @@ theme:
     - navigation.tracking
     - navigation.tabs
     - navigation.tabs.sticky
-    #- navigation.sections
-    #- navigation.expand
+#   - navigation.sections
+#   - navigation.expand
     - navigation.path
-    #- navigation.prune
+#   - navigation.prune
     - navigation.top
     - navigation.footer
-    - navigation.indexes
+#   - navigation.indexes
     - toc.integrate
     - toc.follow
     - search.suggest
