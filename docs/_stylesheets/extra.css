@@ -1,0 +1,188 @@
+[data-md-color-scheme="slate"] {
+    --md-hue: 210;
+}
+
+:root {
+    --md-primary-fg-color: #e54040;
+    --md-primary-fg-color--light: #e54040;
+    --md-primary-fg-color--dark: #e54040;
+    --md-accent-fg-color: #68a4ee;
+    --md-accent-fg-color--light: #68a4ee;
+    --md-accent-fg-color--dark: #68a4ee;
+    --md-primary-bg-color: #ffffff;
+}
+
+:root {
+    --md-text-font: "Roboto";
+    --md-code-font: "Roboto mono";
+}
+
+/* ===== ENHANCED HEADER ===== */
+
+.md-header__button.md-logo {
+    margin-top: 0;
+    margin-bottom: 0;
+    padding-top: 0;
+    padding-bottom: 0;
+}
+
+.md-header__button.md-logo img,
+.md-header__button.md-logo svg {
+    height: 2rem;
+    width: 2rem;
+}
+
+.md-header__title {
+    flex-grow: 1;
+    font-size: 1.3rem;
+    height: 3.5rem;
+    line-height: 3.5rem;
+    font-family: "Roboto"
+}
+
+/*  Navigation tabs */
+.md-tabs__list {
+    justify-content: left;
+}
+
+.md-tabs__item {
+    height: 2.95rem;
+    padding-left: 1.5em;
+    padding-right: 1.5em;
+}
+
+.md-tabs__link {
+    font-size: 1rem;
+}
+
+.md-tabs {
+    font-family: "Roboto";
+}
+
+/* ===== ROUNDED CORNERS SITEWIDE ===== */
+
+:root {
+    --base-border-radius: 0.5rem;
+}
+
+/* Change font family of filename present on top of code block. */
+.highlight span.filename {
+    border-bottom: none;
+    border-radius: var(--base-border-radius);
+    display: inline;
+    font-family: var(--md-code-font-family);
+    border-bottom-left-radius: 0;
+    border-bottom-right-radius: 0;
+    margin-bottom: 5px;
+    text-align: center;
+}
+
+.highlight span.filename+pre>code {
+    border-radius: var(--base-border-radius);
+    border-top-left-radius: 0;
+}
+
+.md-typeset pre>code {
+    border-radius: var(--base-border-radius);
+}
+
+/* Grid Cards */
+.md-typeset .grid.cards>ul>li {
+    border-radius: var(--base-border-radius);
+}
+
+.md-typeset .grid.cards>ul>li:hover {
+    box-shadow: 0 0 0.2rem #ffffff40;
+}
+
+/* Markdown Button */
+.md-typeset .md-button {
+    border-radius: var(--base-border-radius);
+}
+
+/* Critic, Mark */
+ins.critic,
+del.critic {
+    text-decoration: none;
+}
+
+.md-typeset .critic,
+.md-typeset mark {
+    border-radius: 0.2rem;
+    padding: 0 0.2rem;
+}
+
+.md-typeset mark {
+    box-shadow: 0 0 0 0.1rem var(--md-typeset-mark-color);
+}
+
+.md-typeset ins.critic {
+    box-shadow: 0 0 0 0.1rem var(--md-typeset-ins-color);
+}
+
+.md-typeset del.critic {
+    box-shadow: 0 0 0 0.1rem var(--md-typeset-del-color);
+}
+
+/* Forms */
+.md-search__form {
+    border-radius: var(--base-border-radius);
+}
+
+[data-md-toggle="search"]:checked~.md-header .md-search__form {
+    border-top-right-radius: var(--base-border-radius);
+    border-top-left-radius: var(--base-border-radius);
+}
+
+[dir="ltr"] .md-search__output {
+    border-bottom-right-radius: var(--base-border-radius);
+    border-bottom-left-radius: var(--base-border-radius);
+}
+
+/* Blog - index.md */
+.md-post--excerpt {
+    background-color: var(--md-accent-fg-color--transparent);
+    box-shadow: 0 0 0 1rem var(--md-accent-fg-color--transparent);
+    border-radius: var(--base-border-radius);
+}
+
+/* Table */
+.md-typeset table:not([class]) {
+    border-radius: var(--base-border-radius);
+}
+
+/* ===== ENHANCED BLOCKQUOTE ===== */
+
+@import url('https://fonts.googleapis.com/css2?family=Manrope:wght@200..800&display=swap');
+
+...
+
+.md-main blockquote {
+    border: unset !important;
+    border-radius: 4px;
+    padding: 20px 0 20px 0;
+}
+
+.md-main blockquote p {
+    display: inline;
+}
+
+.md-main blockquote:before {
+    opacity: 0.1;
+    z-index: -1;
+    content: open-quote;
+    font-family: manrope;
+    font-size: 14em;
+    line-height: 0.53em;
+    margin-left: -25px;
+    position: absolute;
+}
+
+.md-main blockquote mark {
+    display: block;
+    background-color: unset;
+    margin: 15px 0 0 20px;
+    font-style: italic;
+    font-size: 19px;
+    font-weight: 150;
+}
