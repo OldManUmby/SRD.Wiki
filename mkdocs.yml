@@ -126,7 +126,8 @@ plugins:
   - tags:
       tags_file: blog/tags.md
 #     comments_path: "#__comments"
-# - projects:
+ - projects:
+      projects_dir: projects
 #     cache: true
 
 # MARKDOWN
