@@ -1,14 +1,14 @@
 # Special instructions go here.
 
 # PROJECT
-site_name: Material for MkDocs Template Demo
+site_name: SRD.Wiki
 site_author: B.A. Umberger
-site_url: https://oldmanumby.github.io/material-for-mkdocs-template
+site_url: https://srd.wiki
 site_description: An demo GitHub template for Material for MkDocs Insiders Edition complete with GH Pages.
 
 # REPOSITORY
-repo_name: oldmanumby/material-for-mkdocs-template
-repo_url: https://github.com/oldmanumby/material-for-mkdocs-template
+repo_name: oldmanumby/SRD-Wiki
+repo_url: https://github.com/OldManUmby/SRD-Wiki
 edit_uri: edit/main/docs/
 
 # Copyright
@@ -78,7 +78,7 @@ theme:
 
 # EXTRA CONFIGURATION
 extra:
-#  homepage: https://oldmanumby.github.io/material-for-mkdocs-template
+#  homepage: https://srd.wiki
   generator: false
   status:
     Add: Recently Added
