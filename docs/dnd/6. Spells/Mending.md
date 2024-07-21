@@ -1,4 +1,4 @@
-### Mending
+# Mending
 
 *Transmutation cantrip*
 

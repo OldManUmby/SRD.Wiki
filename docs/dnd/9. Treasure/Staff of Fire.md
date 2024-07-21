@@ -1,4 +1,4 @@
-### Staff of Fire
+# Staff of Fire
 
 *Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*
 

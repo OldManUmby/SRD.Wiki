@@ -1,4 +1,4 @@
-### Create Undead
+# Create Undead
 
 *6th-level necromancy*
 

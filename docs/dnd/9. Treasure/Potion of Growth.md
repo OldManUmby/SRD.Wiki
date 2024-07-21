@@ -1,4 +1,4 @@
-### Potion of Growth
+# Potion of Growth
 
 *Potion, uncommon*
 

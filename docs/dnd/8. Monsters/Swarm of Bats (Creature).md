@@ -1,4 +1,4 @@
-### Swarm of Bats
+# Swarm of Bats
 
 *Medium swarm of Tiny beasts, unaligned*
 
@@ -28,6 +28,6 @@
 
 ***Swarm***. The swarm can occupy another creature's space and vice versa, and the swarm can move through any opening large enough for a Tiny bat. The swarm can't regain hit points or gain temporary hit points.
 
-###### Actions
+## Actions
 
 ***Bites***. *Melee Weapon Attack:* +4 to hit, reach 0 ft., one creature in the swarm's space. *Hit:* 5 (2d4) piercing damage, or 2 (1d4) piercing damage if the swarm has half of its hit points or fewer.

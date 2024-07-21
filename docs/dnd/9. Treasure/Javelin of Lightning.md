@@ -1,4 +1,4 @@
-### Javelin of Lightning
+# Javelin of Lightning
 
 *Weapon (javelin), uncommon*
 

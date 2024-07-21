@@ -1,4 +1,4 @@
-### Priest
+# Priest
 
 *Medium humanoid (any race), any alignment*
 
@@ -29,7 +29,7 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 2nd level (3 slots): *lesser restoration*, *spiritual weapon*
 3rd level (2 slots): *dispel magic*, *spirit guardians*
 
-###### Actions
+## Actions
 
 ***Mace***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 3 (1d6) bludgeoning damage.
 

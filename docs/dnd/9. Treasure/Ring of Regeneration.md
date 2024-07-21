@@ -1,4 +1,4 @@
-### Ring of Regeneration
+# Ring of Regeneration
 
 *Ring, very rare (requires attunement)*
 

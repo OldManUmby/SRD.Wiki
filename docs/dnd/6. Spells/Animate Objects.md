@@ -1,4 +1,4 @@
-### Animate Objects
+# Animate Objects
 
 *5th-level transmutation*
 

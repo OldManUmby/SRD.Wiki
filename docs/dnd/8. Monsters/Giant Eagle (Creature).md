@@ -1,4 +1,4 @@
-### Giant Eagle
+# Giant Eagle
 
 *Large beast, neutral good*
 
@@ -22,7 +22,7 @@
 
 ***Keen Sight***. The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The eagle makes two attacks: one with its beak and one with its talons.
 

@@ -1,4 +1,4 @@
-### Instant Summons
+# Instant Summons
 
 *6th-level conjuration (ritual)*
 

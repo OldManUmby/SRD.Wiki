@@ -1,4 +1,4 @@
-## Succubus/Incubus
+# Succubus/Incubus
 
 *Medium fiend (shapechanger), neutral evil*
 
@@ -26,7 +26,7 @@
 
 ***Shapechanger***. The fiend can use its action to polymorph into a Small or Medium humanoid, or back into its true form. Without wings, the fiend loses its flying speed. Other than its size and speed, its statistics are the same in each form. Any equipment it is wearing or carrying isn't transformed. It reverts to its true form if it dies.
 
-###### Actions
+## Actions
 
 ***Claw (Fiend Form Only)***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 6 (1d6+3) slashing damage.
 

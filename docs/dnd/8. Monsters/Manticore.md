@@ -1,4 +1,4 @@
-## Manticore
+# Manticore
 
 *Large monstrosity, lawful evil*
 
@@ -20,7 +20,7 @@
 
 ***Tail Spike Regrowth***. The manticore has twenty-four tail spikes. Used spikes regrow when the manticore finishes a long rest.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The manticore makes three attacks: one with its bite and two with its claws or three with its tail spikes.
 

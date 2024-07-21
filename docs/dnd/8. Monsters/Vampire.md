@@ -1,4 +1,4 @@
-### Vampire
+# Vampire
 
 *Medium undead (shapechanger), lawful evil*
 
@@ -50,7 +50,7 @@ While it has 0 hit points in mist form, it can't revert to its vampire form, and
 
 *Sunlight Hypersensitivity*. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-###### Actions
+## Actions
 
 ***Multiattack (Vampire Form Only)***. The vampire makes two attacks, only one of which can be a bite attack.
 

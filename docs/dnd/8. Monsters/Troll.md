@@ -1,4 +1,4 @@
-## Troll
+# Troll
 
 *Large giant, chaotic evil*
 
@@ -24,7 +24,7 @@
 
 ***Regeneration***. The troll regains 10 hit points at the start of its turn. If the troll takes acid or fire damage, this trait doesn't function at the start of the troll's next turn. The troll dies only if it starts its turn with 0 hit points and doesn't regenerate.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The troll makes three attacks: one with its bite and two with its claws.
 

@@ -1,4 +1,4 @@
-### Counterspell
+# Counterspell
 
 *3rd-level abjuration*
 

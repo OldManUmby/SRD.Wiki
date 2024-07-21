@@ -1,4 +1,4 @@
-### Handy Haversack
+# Handy Haversack
 
 *Wondrous item, rare*
 

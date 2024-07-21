@@ -24,7 +24,7 @@ Large dragon, chaotic evil
 
 **Challenge** 10 (5,900 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The dragon makes three attacks: one with its bite and two with its claws.
 

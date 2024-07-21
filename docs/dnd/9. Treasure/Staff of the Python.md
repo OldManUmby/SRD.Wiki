@@ -1,4 +1,4 @@
-### Staff of the Python
+# Staff of the Python
 
 *Staff, uncommon (requires attunement by a cleric, druid, or warlock)*
 

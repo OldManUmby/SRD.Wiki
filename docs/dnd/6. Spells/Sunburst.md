@@ -1,4 +1,4 @@
-### Sunburst
+# Sunburst
 
 *8th-level evocation*
 

@@ -1,4 +1,4 @@
-### Frost Brand
+# Frost Brand
 
 *Weapon (any sword), very rare (requires attunement)*
 

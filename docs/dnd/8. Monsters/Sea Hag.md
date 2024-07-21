@@ -1,4 +1,4 @@
-### Sea Hag
+# Sea Hag
 
 *Medium fey, chaotic evil*
 
@@ -24,7 +24,7 @@
 
 Unless the target is surprised or the revelation of the hag's true form is sudden, the target can avert its eyes and avoid making the initial saving throw. Until the start of its next turn, a creature that averts its eyes has disadvantage on attack rolls against the hag.
 
-###### Actions
+## Actions
 
 ***Claws.*** *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) slashing damage.
 

@@ -1,4 +1,4 @@
-### Thaumaturgy
+# Thaumaturgy
 
 *Transmutation cantrip*
 

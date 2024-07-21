@@ -1,4 +1,4 @@
-### Stone Giant
+# Stone Giant
 
 *Huge giant, neutral*
 
@@ -24,7 +24,7 @@
 
 ***Stone Camouflage.*** The giant has advantage on Dexterity (Stealth) checks made to hide in rocky terrain.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The giant makes two greatclub attacks.
 

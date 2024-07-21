@@ -1,4 +1,4 @@
-## Kraken
+# Kraken
 
 *Gargantuan monstrosity (titan), chaotic evil*
 
@@ -30,7 +30,7 @@
 
 ***Siege Monster***. The kraken deals double damage to objects and structures.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The kraken makes three tentacle attacks, each of which it can replace with one use of Fling.
 

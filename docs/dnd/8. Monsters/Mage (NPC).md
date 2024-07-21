@@ -1,4 +1,4 @@
-### Mage
+# Mage
 
 *Medium humanoid (any race), any alignment*
 
@@ -31,7 +31,7 @@ Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*
 4th level (3 slots): *greater invisibility*, *ice storm*
 5th level (1 slot): *cone of cold*
 
-###### Actions
+## Actions
 
 ***Dagger***. *Melee or Ranged Weapon Attack:* +5 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 1) piercing damage.
 

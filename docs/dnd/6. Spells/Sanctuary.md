@@ -1,4 +1,4 @@
-### Sanctuary
+# Sanctuary
 
 *1st-level abjuration*
 

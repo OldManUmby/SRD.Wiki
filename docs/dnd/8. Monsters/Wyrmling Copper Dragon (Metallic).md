@@ -24,7 +24,7 @@
 
 **Challenge** 1 (200 XP)
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 7 (1d10+2) piercing damage.
 

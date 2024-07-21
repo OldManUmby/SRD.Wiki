@@ -1,4 +1,4 @@
-### Eyes of Minute Seeing
+# Eyes of Minute Seeing
 
 *Wondrous item, uncommon*
 

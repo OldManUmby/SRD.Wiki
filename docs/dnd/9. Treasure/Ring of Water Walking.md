@@ -1,4 +1,4 @@
-### Ring of Water Walking
+# Ring of Water Walking
 
 *Ring, uncommon*
 

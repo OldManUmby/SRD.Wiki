@@ -1,4 +1,4 @@
-## Chuul
+# Chuul
 
 *Large aberration, chaotic evil*
 
@@ -28,7 +28,7 @@
 
 ***Sense Magic***. The chuul senses magic within 120 feet of it at will. This trait otherwise works like the *detect magic* spell but isn't itself magical.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The chuul makes two pincer attacks. If the chuul is grappling a creature, the chuul can also use its tentacles once.
 

@@ -1,4 +1,4 @@
-### Deer
+# Deer
 
 *Medium beast, unaligned*
 
@@ -18,6 +18,6 @@
 
 **Challenge** 0 (10 XP)
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) piercing damage.

@@ -1,4 +1,4 @@
-## Satyr
+# Satyr
 
 *Medium fey, chaotic neutral*
 
@@ -22,7 +22,7 @@
 
 ***Magic Resistance***. The satyr has advantage on saving throws against spells and other magical effects.
 
-###### Actions
+## Actions
 
 ***Ram***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 6 (2d4+1) bludgeoning damage.
 

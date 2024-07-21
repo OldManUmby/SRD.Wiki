@@ -1,4 +1,4 @@
-## Gnome, Deep (Svirfneblin)
+# Gnome, Deep (Svirfneblin)
 
 *Small humanoid (gnome), neutral good*
 
@@ -30,7 +30,7 @@ At will: *nondetection* (self only)
 
 1/day each: *blindness/deafness*, *blur*, *disguise self*
 
-###### Actions
+## Actions
 
 ***War Pick***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
 

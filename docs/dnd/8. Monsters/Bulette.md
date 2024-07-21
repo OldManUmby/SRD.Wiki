@@ -1,4 +1,4 @@
-## Bulette
+# Bulette
 
 *Large monstrosity, unaligned*
 
@@ -22,7 +22,7 @@
 
 ***Standing Leap***. The bulette's long jump is up to 30 feet and its high jump is up to 15 feet, with or without a running start.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 30 (4d12+4) piercing damage.
 

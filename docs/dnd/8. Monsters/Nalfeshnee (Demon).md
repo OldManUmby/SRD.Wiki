@@ -1,4 +1,4 @@
-### Nalfeshnee (Demon)
+# Nalfeshnee (Demon)
 
 *Large fiend (demon), chaotic evil*
 
@@ -28,7 +28,7 @@
 
 ***Magic Resistance***. The nalfeshnee has advantage on saving throws against spells and other magical effects.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The nalfeshnee uses Horror Nimbus if it can. It then makes three attacks: one with its bite and two with its claws.
 

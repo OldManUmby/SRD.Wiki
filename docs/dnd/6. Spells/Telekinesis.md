@@ -1,4 +1,4 @@
-### Telekinesis
+# Telekinesis
 
 *5th-level transmutation*
 

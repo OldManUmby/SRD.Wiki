@@ -1,4 +1,4 @@
-### Blindness/Deafness
+# Blindness/Deafness
 
 *2nd-level necromancy*
 

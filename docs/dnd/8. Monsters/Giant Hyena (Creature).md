@@ -1,4 +1,4 @@
-### Giant Hyena
+# Giant Hyena
 
 *Large beast, unaligned*
 
@@ -22,6 +22,6 @@
 
 ***Rampage***. When the hyena reduces a creature to 0 hit points with a melee attack on its turn, the hyena can take a bonus action to move up to half its speed and make a bite attack.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) piercing damage.

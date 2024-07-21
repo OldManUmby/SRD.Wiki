@@ -1,4 +1,4 @@
-### Bag of Devouring
+# Bag of Devouring
 
 *Wondrous item, very rare*
 

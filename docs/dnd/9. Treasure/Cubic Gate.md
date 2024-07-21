@@ -1,4 +1,4 @@
-### Cubic Gate
+# Cubic Gate
 
 *Wondrous item, legendary*
 

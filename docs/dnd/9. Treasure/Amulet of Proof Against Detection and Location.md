@@ -1,4 +1,4 @@
-### Amulet of Proof Against Detection and Location
+# Amulet of Proof Against Detection and Location
 
 *Wondrous item, uncommon (requires attunement)*
 

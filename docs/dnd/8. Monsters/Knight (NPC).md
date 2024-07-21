@@ -1,4 +1,4 @@
-### Knight
+# Knight
 
 *Medium humanoid (any race), any alignment*
 
@@ -22,7 +22,7 @@
 
 ***Brave***. The knight has advantage on saving throws against being frightened.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The knight makes two melee attacks.
 

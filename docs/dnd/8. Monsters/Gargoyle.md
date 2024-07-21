@@ -1,4 +1,4 @@
-## Gargoyle
+# Gargoyle
 
 *Medium elemental, chaotic evil*
 
@@ -26,7 +26,7 @@
 
 ***False Appearance***. While the gargoyle remains motionless, it is indistinguishable from an inanimate statue.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The gargoyle makes two attacks: one with its bite and one with its claws.
 

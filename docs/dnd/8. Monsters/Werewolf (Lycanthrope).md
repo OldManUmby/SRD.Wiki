@@ -1,4 +1,4 @@
-### Werewolf (Lycanthrope)
+# Werewolf (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), chaotic evil*
 
@@ -26,7 +26,7 @@
 
 ***Keen Hearing and Smell***. The werewolf has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-###### Actions
+## Actions
 
 ***Multiattack (Humanoid or Hybrid Form Only)***. The werewolf makes two attacks: two with its spear (humanoid form) or one with its bite and one with its claws (hybrid form).
 

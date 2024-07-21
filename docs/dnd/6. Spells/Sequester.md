@@ -1,4 +1,4 @@
-### Sequester
+# Sequester
 
 *7th-level transmutation*
 

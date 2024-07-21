@@ -1,4 +1,4 @@
-## Aboleth
+# Aboleth
 
 *Large aberration, lawful evil*
 
@@ -28,7 +28,7 @@
 
 ***Probing Telepathy***. If a creature communicates telepathically with the aboleth, the aboleth learns the creature's greatest desires if the aboleth can see the creature.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The aboleth makes three tentacle attacks.
 

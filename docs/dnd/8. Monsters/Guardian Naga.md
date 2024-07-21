@@ -1,4 +1,4 @@
-### Guardian Naga
+# Guardian Naga
 
 *Large monstrosity, lawful good*
 
@@ -38,7 +38,7 @@ Cantrips (at will): *mending*, *sacred flame*, *thaumaturgy*
 5th level (2 slots): *flame strike*, *geas*
 6th level (1 slot): *true seeing*
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +8 to hit, reach 10 ft., one creature. *Hit:* 8 (1d8+4) piercing damage, and the target must make a DC 15 Constitution saving throw, taking 45 (10d8) poison damage on a failed save, or half as much damage on a successful one.
 

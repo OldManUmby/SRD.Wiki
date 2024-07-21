@@ -1,4 +1,4 @@
-### Giant Scorpion
+# Giant Scorpion
 
 *Large beast, unaligned*
 
@@ -18,7 +18,7 @@
 
 **Challenge** 3 (700 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The scorpion makes three attacks: two with its claws and one with its sting.
 

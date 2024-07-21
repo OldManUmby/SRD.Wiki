@@ -1,4 +1,4 @@
-### Talisman of Pure Good
+# Talisman of Pure Good
 
 *Wondrous item, legendary (requires attunement by a creature of good alignment)*
 

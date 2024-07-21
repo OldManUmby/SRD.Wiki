@@ -1,4 +1,4 @@
-### Dominate Monster
+# Dominate Monster
 
 *8th-level enchantment*
 

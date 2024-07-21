@@ -1,4 +1,4 @@
-### Periapt of Health
+# Periapt of Health
 
 *Wondrous item, uncommon*
 

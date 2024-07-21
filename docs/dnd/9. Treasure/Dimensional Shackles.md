@@ -1,4 +1,4 @@
-### Dimensional Shackles
+# Dimensional Shackles
 
 *Wondrous item, rare*
 

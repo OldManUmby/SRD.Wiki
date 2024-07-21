@@ -1,4 +1,4 @@
-### Cloak of Elvenkind
+# Cloak of Elvenkind
 
 *Wondrous item, uncommon (requires attunement)*
 

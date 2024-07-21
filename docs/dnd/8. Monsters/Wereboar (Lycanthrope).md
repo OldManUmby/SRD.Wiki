@@ -1,4 +1,4 @@
-### Wereboar (Lycanthrope)
+# Wereboar (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), neutral evil*
 
@@ -28,7 +28,7 @@
 
 ***Relentless (Recharges after a Short or Long Rest)***. If the wereboar takes 14 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-###### Actions
+## Actions
 
 ***Multiattack (Humanoid or Hybrid Form Only)***. The wereboar makes two attacks, only one of which can be with its tusks.
 

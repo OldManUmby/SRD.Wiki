@@ -1,4 +1,4 @@
-### Stone Golem
+# Stone Golem
 
 *Large construct, unaligned*
 
@@ -28,7 +28,7 @@
 
 ***Magic Weapons***. The golem's weapon attacks are magical.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The golem makes two slam attacks.
 

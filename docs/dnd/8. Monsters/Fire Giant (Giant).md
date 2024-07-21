@@ -1,4 +1,4 @@
-### Fire Giant
+# Fire Giant
 
 *Huge giant, lawful evil*
 
@@ -24,7 +24,7 @@
 
 **Challenge** 9 (5,000 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The giant makes two greatsword attacks.
 

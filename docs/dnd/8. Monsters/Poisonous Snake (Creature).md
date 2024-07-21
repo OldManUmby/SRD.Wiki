@@ -1,4 +1,4 @@
-### Poisonous Snake
+# Poisonous Snake
 
 *Tiny beast, unaligned*
 
@@ -18,6 +18,6 @@
 
 **Challenge** 1/8 (25 XP)
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage, and the target must make a DC 10 Constitution saving throw, taking 5 (2d4) poison damage on a failed save, or half as much damage on a successful one.

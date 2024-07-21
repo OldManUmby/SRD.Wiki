@@ -1,4 +1,4 @@
-### Dust of Sneezing and Choking
+# Dust of Sneezing and Choking
 
 *Wondrous item, uncommon*
 

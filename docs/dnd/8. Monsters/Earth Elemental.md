@@ -1,4 +1,4 @@
-### Earth Elemental
+# Earth Elemental
 
 *Large elemental, neutral*
 
@@ -30,7 +30,7 @@
 
 ***Siege Monster***. The elemental deals double damage to objects and structures.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The elemental makes two slam attacks.
 

@@ -1,4 +1,4 @@
-### Philter of Love
+# Philter of Love
 
 *Potion, uncommon*
 

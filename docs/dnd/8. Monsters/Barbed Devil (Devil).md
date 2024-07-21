@@ -1,4 +1,4 @@
-### Barbed Devil
+# Barbed Devil
 
 *Medium fiend (devil), lawful evil*
 
@@ -34,7 +34,7 @@
 
 ***Magic Resistance***. The devil has advantage on saving throws against spells and other magical effects.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The devil makes three melee attacks: one with its tail and two with its claws. Alternatively, it can use Hurl Flame twice.
 

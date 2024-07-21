@@ -1,4 +1,4 @@
-### Forbiddance
+# Forbiddance
 
 *6th-level abjuration (ritual)*
 

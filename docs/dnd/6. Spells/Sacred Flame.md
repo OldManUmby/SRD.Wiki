@@ -1,4 +1,4 @@
-### Sacred Flame
+# Sacred Flame
 
 *Evocation cantrip*
 

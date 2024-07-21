@@ -1,4 +1,4 @@
-### Killer Whale
+# Killer Whale
 
 *Huge beast, unaligned*
 
@@ -26,6 +26,6 @@
 
 ***Keen Hearing***. The whale has advantage on Wisdom (Perception) checks that rely on hearing.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 21 (5d6+4) piercing damage.

@@ -1,4 +1,4 @@
-## Hobgoblin
+# Hobgoblin
 
 *Medium humanoid (goblinoid), lawful evil*
 
@@ -20,7 +20,7 @@
 
 ***Martial Advantage***. Once per turn, the hobgoblin can deal an extra 7 (2d6) damage to a creature it hits with a weapon attack if that creature is within 5 feet of an ally of the hobgoblin that isn't incapacitated.
 
-###### Actions
+## Actions
 
 ***Longsword***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8+1) slashing damage, or 6 (1d10+1) slashing damage if used with two hands.
 

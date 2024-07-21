@@ -1,4 +1,4 @@
-### Spike Growth
+# Spike Growth
 
 *2nd-level transmutation*
 

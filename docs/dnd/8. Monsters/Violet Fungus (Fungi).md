@@ -1,4 +1,4 @@
-### Violet Fungus (Fungi)
+# Violet Fungus (Fungi)
 
 *Medium plant, unaligned*
 
@@ -22,7 +22,7 @@
 
 ***False Appearance***. While the violet fungus remains motionless, it is indistinguishable from an ordinary fungus.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The fungus makes 1d4 Rotting Touch attacks.
 

@@ -1,4 +1,4 @@
-### Reincarnate
+# Reincarnate
 
 *5th-level transmutation*
 

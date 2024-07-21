@@ -1,4 +1,4 @@
-### Sword of Sharpness
+# Sword of Sharpness
 
 *Weapon (any sword that deals slashing damage), very rare (requires attunement)*
 

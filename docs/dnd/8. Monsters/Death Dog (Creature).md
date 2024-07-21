@@ -1,4 +1,4 @@
-### Death Dog
+# Death Dog
 
 *Medium monstrosity, neutral evil*
 
@@ -22,7 +22,7 @@
 
 ***Two-Headed***. The dog has advantage on Wisdom (Perception) checks and on saving throws against being blinded, charmed, deafened, frightened, stunned, or knocked unconscious.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The dog makes two bite attacks.
 

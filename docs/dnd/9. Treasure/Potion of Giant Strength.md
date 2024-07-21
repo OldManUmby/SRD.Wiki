@@ -1,4 +1,4 @@
-### Potion of Giant Strength
+# Potion of Giant Strength
 
 *Potion, rarity varies*
 

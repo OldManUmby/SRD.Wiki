@@ -1,4 +1,4 @@
-### Magma Mephit
+# Magma Mephit
 
 *Small elemental, neutral evil*
 
@@ -32,7 +32,7 @@
 
 ***Innate Spellcasting (1/Day)***. The mephit can innately cast *heat metal* (spell save DC 10), requiring no material components. Its innate spellcasting ability is Charisma.
 
-###### Actions
+## Actions
 
 ***Claws.*** *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 3 (1d4+1) slashing damage plus 2 (1d4) fire damage.
 

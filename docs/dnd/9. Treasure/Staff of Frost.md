@@ -1,4 +1,4 @@
-### Staff of Frost
+# Staff of Frost
 
 *Staff, very rare (requires attunement by a druid, sorcerer, warlock, or wizard)*
 

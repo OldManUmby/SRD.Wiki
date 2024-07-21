@@ -1,4 +1,4 @@
-## Half-Dragon Template
+# Half-Dragon Template
 
 A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its statistics, except as follows.
 
@@ -32,7 +32,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 | Gargantuan       | As an adult dragon | Challenge 8 or higher |
 |                  |                    |                       |
 
-### Half-Red Dragon Veteran
+# Half-Red Dragon Veteran
 
 *Medium humanoid (human), any alignment*
 
@@ -56,7 +56,7 @@ A beast, humanoid, giant, or monstrosity can become a half-dragon. It keeps its 
 
 **Challenge** 5 (1,800 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The veteran makes two longsword attacks. If it has a shortsword drawn, it can also make a shortsword attack.
 

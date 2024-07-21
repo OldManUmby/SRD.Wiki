@@ -1,4 +1,4 @@
-### Brazier of Commanding Fire Elementals
+# Brazier of Commanding Fire Elementals
 
 *Wondrous item, rare*
 

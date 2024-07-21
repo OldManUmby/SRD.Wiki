@@ -1,4 +1,4 @@
-### Shield of Faith
+# Shield of Faith
 
 *1st-level abjuration*
 

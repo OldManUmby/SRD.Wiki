@@ -1,4 +1,4 @@
-### Wall of Fire
+# Wall of Fire
 
 *4th-level evocation*
 

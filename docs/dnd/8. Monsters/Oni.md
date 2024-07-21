@@ -1,4 +1,4 @@
-## Oni
+# Oni
 
 *Large giant, lawful evil*
 
@@ -32,7 +32,7 @@ At will: *darkness*, *invisibility*
 
 ***Regeneration***. The oni regains 10 hit points at the start of its turn if it has at least 1 hit point.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The oni makes two attacks, either with its claws or its glaive.
 

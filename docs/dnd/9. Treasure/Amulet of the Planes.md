@@ -1,4 +1,4 @@
-### Amulet of the Planes
+# Amulet of the Planes
 
 *Wondrous item, very rare (requires attunement)*
 

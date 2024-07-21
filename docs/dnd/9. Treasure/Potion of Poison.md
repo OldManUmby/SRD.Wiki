@@ -1,4 +1,4 @@
-### Potion of Poison
+# Potion of Poison
 
 *Potion, uncommon*
 

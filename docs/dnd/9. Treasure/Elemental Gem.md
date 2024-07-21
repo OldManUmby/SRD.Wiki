@@ -1,4 +1,4 @@
-### Elemental Gem
+# Elemental Gem
 
 *Wondrous item, uncommon*
 

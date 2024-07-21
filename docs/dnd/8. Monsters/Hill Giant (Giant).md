@@ -1,4 +1,4 @@
-### Hill Giant
+# Hill Giant
 
 *Huge giant, chaotic evil*
 
@@ -20,7 +20,7 @@
 
 **Challenge** 5 (1,800 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The giant makes two greatclub attacks.
 

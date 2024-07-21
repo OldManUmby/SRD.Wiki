@@ -1,4 +1,4 @@
-### Gate
+# Gate
 
 *9th-level conjuration*
 

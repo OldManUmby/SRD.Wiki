@@ -1,4 +1,4 @@
-### Dust Mephit
+# Dust Mephit
 
 *Small elemental, neutral evil*
 
@@ -30,7 +30,7 @@
 
 ***Innate Spellcasting (1/Day)***. The mephit can innately cast *sleep*, requiring no material components. Its innate spellcasting ability is Charisma.
 
-###### Actions
+## Actions
 
 ***Claws.*** *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 4 (1d4+2) slashing damage.
 

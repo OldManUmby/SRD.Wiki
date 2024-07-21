@@ -1,4 +1,4 @@
-### Mastiff
+# Mastiff
 
 *Medium beast, unaligned*
 
@@ -22,7 +22,7 @@
 
 ***Keen Hearing and Smell***. The mastiff has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 4 (1d6+1) piercing damage. If the target is a creature, it must succeed on a DC 11 Strength saving throw or be knocked prone.
 

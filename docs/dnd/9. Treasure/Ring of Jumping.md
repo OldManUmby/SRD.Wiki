@@ -1,4 +1,4 @@
-### Ring of Jumping
+# Ring of Jumping
 
 *Ring, uncommon (requires attunement)*
 

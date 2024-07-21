@@ -1,4 +1,4 @@
-## Unicorn
+# Unicorn
 
 *Large celestial, lawful good*
 
@@ -34,7 +34,7 @@ At will: *detect evil and good*, *druidcraft*, *pass without trace*
 
 ***Magic Weapons***. The unicorn's weapon attacks are magical.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The unicorn makes two attacks: one with its hooves and one with its horn.
 

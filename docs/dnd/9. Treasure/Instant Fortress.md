@@ -1,4 +1,4 @@
-### Instant Fortress
+# Instant Fortress
 
 *Wondrous item, rare*
 

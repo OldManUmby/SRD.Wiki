@@ -1,4 +1,4 @@
-### Elven Chain
+# Elven Chain
 
 *Armor (chain shirt), rare*
 

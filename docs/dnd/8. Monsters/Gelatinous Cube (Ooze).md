@@ -1,4 +1,4 @@
-### Gelatinous Cube (Ooze)
+# Gelatinous Cube (Ooze)
 
 *Large ooze, unaligned*
 
@@ -30,7 +30,7 @@ The cube can hold only one Large creature or up to four Medium or smaller creatu
 
 ***Transparent***. Even when the cube is in plain sight, it takes a successful DC 15 Wisdom (Perception) check to spot a cube that has neither moved nor attacked. A creature that tries to enter the cube's space while unaware of the cube is surprised by the cube.
 
-###### Actions
+## Actions
 
 ***Pseudopod***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 10 (3d6) acid damage.
 

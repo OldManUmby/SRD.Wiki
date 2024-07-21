@@ -1,4 +1,4 @@
-### Belt of Giant Strength
+# Belt of Giant Strength
 
 *Wondrous item, rarity varies (requires attunement)*
 

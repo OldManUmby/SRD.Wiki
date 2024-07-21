@@ -1,4 +1,4 @@
-### Vrock (Demon)
+# Vrock (Demon)
 
 *Large fiend (demon), chaotic evil*
 
@@ -28,7 +28,7 @@
 
 ***Magic Resistance***. The vrock has advantage on saving throws against spells and other magical effects.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The vrock makes two attacks: one with its beak and one with its talons.
 

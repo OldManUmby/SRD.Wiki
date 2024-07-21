@@ -1,4 +1,4 @@
-### Ring of Resistance
+# Ring of Resistance
 
 *Ring, rare (requires attunement)*
 

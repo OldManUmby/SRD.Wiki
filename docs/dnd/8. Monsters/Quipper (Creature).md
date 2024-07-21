@@ -1,4 +1,4 @@
-### Quipper
+# Quipper
 
 *Tiny beast, unaligned*
 
@@ -22,7 +22,7 @@
 
 ***Water Breathing***. The quipper can breathe only underwater.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.
 

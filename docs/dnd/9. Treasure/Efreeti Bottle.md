@@ -1,4 +1,4 @@
-### Efreeti Bottle
+# Efreeti Bottle
 
 *Wondrous item, very rare*
 

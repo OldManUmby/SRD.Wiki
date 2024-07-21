@@ -1,4 +1,4 @@
-### Ring of Djinni Summoning
+# Ring of Djinni Summoning
 
 *Ring, legendary (requires attunement)*
 

@@ -1,4 +1,4 @@
-### Eldritch Blast
+# Eldritch Blast
 
 *Evocation cantrip*
 

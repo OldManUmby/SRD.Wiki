@@ -1,4 +1,4 @@
-### Stinking Cloud
+# Stinking Cloud
 
 *3rd-level conjuration*
 

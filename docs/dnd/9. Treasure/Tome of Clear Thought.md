@@ -1,4 +1,4 @@
-### Tome of Clear Thought
+# Tome of Clear Thought
 
 *Wondrous item, very rare*
 

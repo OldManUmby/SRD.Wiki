@@ -1,4 +1,4 @@
-### Djinni (Genie)
+# Djinni (Genie)
 
 *Large elemental, chaotic good*
 
@@ -32,7 +32,7 @@ At will: *detect evil and good*, *detect magic*, *thunderwave*
 
 1/day each: *conjure elemental* (air elemental only), *creation*, *gaseous form*, *invisibility*, *major image*, *plane shift*
 
-###### Actions
+## Actions
 
 ***Multiattack***. The djinni makes three scimitar attacks.
 

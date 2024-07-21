@@ -1,4 +1,4 @@
-### Magnificent Mansion
+# Magnificent Mansion
 
 *7th-level conjuration*
 

@@ -1,4 +1,4 @@
-### Giant Bat
+# Giant Bat
 
 *Large beast, unaligned*
 
@@ -22,6 +22,6 @@
 
 ***Keen Hearing***. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 5 (1d6+2) piercing damage.

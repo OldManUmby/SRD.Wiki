@@ -1,4 +1,4 @@
-### Potion of Clairvoyance
+# Potion of Clairvoyance
 
 *Potion, rare*
 

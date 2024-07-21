@@ -1,4 +1,4 @@
-### Wererat (Lycanthrope)
+# Wererat (Lycanthrope)
 
 *Medium humanoid (human, shapechanger), lawful evil*
 
@@ -26,7 +26,7 @@
 
 ***Keen Smell***. The wererat has advantage on Wisdom (Perception) checks that rely on smell.
 
-###### Actions
+## Actions
 
 ***Multiattack (Humanoid or Hybrid Form Only)***. The wererat makes two attacks, only one of which can be a bite.
 

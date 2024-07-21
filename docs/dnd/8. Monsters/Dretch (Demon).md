@@ -1,4 +1,4 @@
-### Dretch (Demon)
+# Dretch (Demon)
 
 *Small fiend (demon), chaotic evil*
 
@@ -24,7 +24,7 @@
 
 **Challenge** 1/4 (50 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The dretch makes two attacks: one with its bite and one with its claws.
 

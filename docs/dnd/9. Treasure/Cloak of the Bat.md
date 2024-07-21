@@ -1,4 +1,4 @@
-### Cloak of the Bat
+# Cloak of the Bat
 
 *Wondrous item, rare (requires attunement)*
 

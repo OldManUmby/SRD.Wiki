@@ -1,4 +1,4 @@
-### Giant Weasel
+# Giant Weasel
 
 *Medium beast, unaligned*
 
@@ -22,6 +22,6 @@
 
 ***Keen Hearing and Smell***. The weasel has advantage on Wisdom (Perception) checks that rely on hearing or smell.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) piercing damage.

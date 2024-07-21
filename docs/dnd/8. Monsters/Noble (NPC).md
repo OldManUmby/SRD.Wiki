@@ -1,4 +1,4 @@
-### Noble
+# Noble
 
 *Medium humanoid (any race), any alignment*
 
@@ -20,7 +20,7 @@
 
 **Challenge** 1/8 (25 XP)
 
-###### Actions
+## Actions
 
 ***Rapier***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 5 (1d8 + 1) piercing damage.
 

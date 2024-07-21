@@ -1,4 +1,4 @@
-### Ring of Spell Storing
+# Ring of Spell Storing
 
 *Ring, rare (requires attunement)*
 

@@ -1,4 +1,4 @@
-### Green Hag
+# Green Hag
 
 *Medium fey, neutral evil*
 
@@ -28,7 +28,7 @@ At will: *dancing lights*, *minor illusion*, *vicious mockery*
 
 ***Mimicry***. The hag can mimic animal sounds and humanoid voices. A creature that hears the sounds can tell they are imitations with a successful DC 14 Wisdom (Insight) check.
 
-###### Actions
+## Actions
 
 ***Claws.*** *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) slashing damage.
 

@@ -1,4 +1,4 @@
-### Dispel Evil and Good
+# Dispel Evil and Good
 
 *5th-level abjuration*
 

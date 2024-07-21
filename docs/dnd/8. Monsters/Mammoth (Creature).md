@@ -1,4 +1,4 @@
-### Mammoth
+# Mammoth
 
 *Huge beast, unaligned*
 
@@ -20,7 +20,7 @@
 
 ***Trampling Charge***. If the mammoth moves at least 20 feet straight toward a creature and then hits it with a gore attack on the same turn, that target must succeed on a DC 18 Strength saving throw or be knocked prone. If the target is prone, the mammoth can make one stomp attack against it as a bonus action.
 
-###### Actions
+## Actions
 
 ***Gore***. *Melee Weapon Attack:* +10 to hit, reach 10 ft., one target. *Hit:* 25 (4d8+7) piercing damage.
 

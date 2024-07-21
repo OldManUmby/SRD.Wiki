@@ -1,4 +1,4 @@
-### Frost Giant
+# Frost Giant
 
 *Huge giant, neutral evil*
 
@@ -24,7 +24,7 @@
 
 **Challenge** 8 (3,900 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The giant makes two greataxe attacks.
 

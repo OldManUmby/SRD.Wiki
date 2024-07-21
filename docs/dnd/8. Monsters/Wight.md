@@ -1,4 +1,4 @@
-## Wight
+# Wight
 
 *Medium undead, neutral evil*
 
@@ -28,7 +28,7 @@
 
 ***Sunlight Sensitivity***. While in sunlight, the wight has disadvantage on attack rolls, as well as on Wisdom (Perception) checks that rely on sight.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The wight makes two longsword attacks or two longbow attacks. It can use its Life Drain in place of one longsword attack.
 

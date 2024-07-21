@@ -1,4 +1,4 @@
-### Rope Trick
+# Rope Trick
 
 *2nd-level transmutation*
 

@@ -1,4 +1,4 @@
-### Branding Smite
+# Branding Smite
 
 *2nd-level evocation*
 

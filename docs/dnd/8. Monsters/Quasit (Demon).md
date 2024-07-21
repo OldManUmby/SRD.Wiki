@@ -1,4 +1,4 @@
-### Quasit (Demon)
+# Quasit (Demon)
 
 *Tiny fiend (demon, shapechanger), chaotic evil*
 
@@ -30,7 +30,7 @@
 
 ***Magic Resistance***. The quasit has advantage on saving throws against spells and other magical effects.
 
-###### Actions
+## Actions
 
 ***Claws (Bite in Beast Form)***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d4+3) piercing damage, and the target must succeed on a DC 10 Constitution saving throw or take 5 (2d4) poison damage and become poisoned for 1 minute. The target can repeat the saving throw at the end of each of its turns, ending the effect on itself on a success.
 

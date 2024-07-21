@@ -1,4 +1,4 @@
-### Octopus
+# Octopus
 
 *Small beast, unaligned*
 
@@ -26,7 +26,7 @@
 
 ***Water Breathing***. The octopus can breathe only underwater.
 
-###### Actions
+## Actions
 
 ***Tentacles***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 1 bludgeoning damage, and the target is grappled (escape DC 10). Until this grapple ends, the octopus can't use its tentacles on another target.
 

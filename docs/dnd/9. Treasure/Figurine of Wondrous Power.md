@@ -1,4 +1,4 @@
-### Figurine of Wondrous Power
+# Figurine of Wondrous Power
 
 *Wondrous item, rarity by figurine*
 
@@ -12,7 +12,7 @@ The creature exists for a duration specific to each figurine. At the end of the 
 
 ***Ebony Fly (Rare)***. This ebony statuette is carved in the likeness of a horsefly. It can become a giant fly for up to 12 hours and can be ridden as a mount. Once it has been used, it can't be used again until 2 days have passed.
 
-#### Giant Fly
+## Giant Fly
 
 *Large beast, unaligned*
 

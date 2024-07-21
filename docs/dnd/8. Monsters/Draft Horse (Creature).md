@@ -1,4 +1,4 @@
-### Draft Horse
+# Draft Horse
 
 *Large beast, unaligned*
 
@@ -18,6 +18,6 @@
 
 **Challenge** 1/4 (50 XP)
 
-###### Actions
+## Actions
 
 ***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (2d4+4) bludgeoning damage.

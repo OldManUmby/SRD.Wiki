@@ -1,4 +1,4 @@
-## Dragon Turtle
+# Dragon Turtle
 
 *Gargantuan dragon, neutral*
 
@@ -24,7 +24,7 @@
 
 ***Amphibious***. The dragon turtle can breathe air and water.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The dragon turtle makes three attacks: one with its bite and two with its claws. It can make one tail attack in place of its two claw attacks.
 

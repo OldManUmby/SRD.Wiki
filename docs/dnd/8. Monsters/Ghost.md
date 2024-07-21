@@ -1,4 +1,4 @@
-## Ghost
+# Ghost
 
 *Medium undead, any alignment*
 
@@ -28,7 +28,7 @@
 
 ***Incorporeal Movement***. The ghost can move through other creatures and objects as if they were difficult terrain. It takes 5 (1d10) force damage if it ends its turn inside an object.
 
-###### Actions
+## Actions
 
 ***Withering Touch***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 17 (4d6+3) necrotic damage.
 

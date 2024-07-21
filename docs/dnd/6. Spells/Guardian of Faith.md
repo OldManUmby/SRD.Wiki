@@ -1,4 +1,4 @@
-### Guardian of Faith
+# Guardian of Faith
 
 *4th-level conjuration*
 

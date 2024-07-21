@@ -1,4 +1,4 @@
-### Glabrezu (Demon)
+# Glabrezu (Demon)
 
 *Large fiend (demon), chaotic evil*
 
@@ -34,7 +34,7 @@ At will: *darkness*, *detect magic*, *dispel magic*
 
 ***Magic Resistance***. The glabrezu has advantage on saving throws against spells and other magical effects.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The glabrezu makes four attacks: two with its pincers and two with its fists. Alternatively, it makes two attacks with its pincers and casts one spell.
 

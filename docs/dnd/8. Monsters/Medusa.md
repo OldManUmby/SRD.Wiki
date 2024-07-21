@@ -1,4 +1,4 @@
-## Medusa
+# Medusa
 
 *Medium monstrosity, lawful evil*
 
@@ -26,7 +26,7 @@ Unless surprised, a creature can avert its eyes to avoid the saving throw at the
 
 If the medusa sees itself reflected on a polished surface within 30 feet of it and in an area of bright light, the medusa is, due to its curse, affected by its own gaze.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The medusa makes either three melee attacks-one with its snake hair and two with its shortsword-or two ranged attacks with its longbow.
 

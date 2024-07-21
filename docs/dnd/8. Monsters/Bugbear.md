@@ -1,4 +1,4 @@
-## Bugbear
+# Bugbear
 
 *Medium humanoid (goblinoid), chaotic evil*
 
@@ -24,7 +24,7 @@
 
 ***Surprise Attack***. If the bugbear surprises a creature and hits it with an attack during the first round of combat, the target takes an extra 7 (2d6) damage from the attack.
 
-###### Actions
+## Actions
 
 ***Morningstar***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 11 (2d8+2) piercing damage.
 

@@ -1,4 +1,4 @@
-### Flesh Golem
+# Flesh Golem
 
 *Medium construct, neutral*
 
@@ -36,7 +36,7 @@ The golem's creator, if within 60 feet of the berserk golem, can try to calm it 
 
 ***Magic Weapons***. The golem's weapon attacks are magical.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The golem makes two slam attacks.
 

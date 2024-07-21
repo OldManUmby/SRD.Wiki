@@ -1,4 +1,4 @@
-### Secret Chest
+# Secret Chest
 
 *4th-level conjuration*
 

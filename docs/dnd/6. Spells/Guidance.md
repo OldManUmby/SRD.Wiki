@@ -1,4 +1,4 @@
-### Guidance
+# Guidance
 
 *Divination cantrip*
 

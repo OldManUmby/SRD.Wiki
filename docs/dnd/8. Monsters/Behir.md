@@ -1,4 +1,4 @@
-## Behir
+# Behir
 
 *Huge monstrosity, neutral evil*
 
@@ -22,7 +22,7 @@
 
 **Challenge** 11 (7,200 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The behir makes two attacks: one with its bite and one to constrict.
 

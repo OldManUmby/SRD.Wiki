@@ -1,4 +1,4 @@
-### Solar (Angel)
+# Solar (Angel)
 
 *Large celestial, lawful good*
 
@@ -42,7 +42,7 @@ At will: *detect evil and good*, *invisibility* (self only)
 
 ***Magic Resistance***. The solar has advantage on saving throws against spells and other magical effects.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The solar makes two greatsword attacks.
 

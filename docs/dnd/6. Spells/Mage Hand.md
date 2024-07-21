@@ -1,4 +1,4 @@
-### Mage Hand
+# Mage Hand
 
 *Conjuration cantrip*
 

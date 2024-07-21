@@ -1,4 +1,4 @@
-### Cloak of Protection
+# Cloak of Protection
 
 *Wondrous item, uncommon (requires attunement)*
 

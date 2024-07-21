@@ -1,4 +1,4 @@
-### Lizard
+# Lizard
 
 *Tiny beast, unaligned*
 
@@ -18,6 +18,6 @@
 
 **Challenge** 0 (10 XP)
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +0 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage.

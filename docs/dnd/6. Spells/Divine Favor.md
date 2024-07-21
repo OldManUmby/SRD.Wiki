@@ -1,4 +1,4 @@
-### Divine Favor
+# Divine Favor
 
 *1st-level evocation*
 

@@ -1,4 +1,4 @@
-### Efreeti (Genie)
+# Efreeti (Genie)
 
 *Large elemental, lawful evil*
 
@@ -32,7 +32,7 @@ At will: *detect magic*
 
 1/day each: *conjure elemental* (fire elemental only), *gaseous form*, *invisibility*, *major image*, *plane shift*, *wall of fire*
 
-###### Actions
+## Actions
 
 ***Multiattack***. The efreeti makes two scimitar attacks or uses its Hurl Flame twice.
 

@@ -1,4 +1,4 @@
-### Wings of Flying
+# Wings of Flying
 
 *Wondrous item, rare (requires attunement)*
 

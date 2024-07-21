@@ -1,4 +1,4 @@
-### Archmage
+# Archmage
 
 *Medium humanoid (any race), any alignment*
 
@@ -40,7 +40,7 @@ Cantrips (at will): *fire bolt*, *light*, *mage hand*, *prestidigitation*, *shoc
 9th level (1 slot): *time stop*
 \* The archmage casts these spells on itself before combat.
 
-###### Actions
+## Actions
 
 ***Dagger***. *Melee or Ranged Weapon Attack:* +6 to hit, reach 5 ft. or range 20/60 ft., one target. *Hit:* 4 (1d4 + 2) piercing damage.
 

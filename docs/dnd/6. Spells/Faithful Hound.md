@@ -1,4 +1,4 @@
-### Faithful Hound
+# Faithful Hound
 
 *4th-level conjuration*
 

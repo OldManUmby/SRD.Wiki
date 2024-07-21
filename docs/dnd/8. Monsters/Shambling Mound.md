@@ -1,4 +1,4 @@
-## Shambling Mound
+# Shambling Mound
 
 *Large plant, unaligned*
 
@@ -28,7 +28,7 @@
 
 ***Lightning Absorption***. Whenever the shambling mound is subjected to lightning damage, it takes no damage and regains a number of hit points equal to the lightning damage dealt.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The shambling mound makes two slam attacks. If both attacks hit a Medium or smaller target, the target is grappled (escape DC 14), and the shambling mound uses its Engulf on it.
 

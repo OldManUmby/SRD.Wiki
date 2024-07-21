@@ -1,4 +1,4 @@
-### Symbol
+# Symbol
 
 *7th-level abjuration*
 

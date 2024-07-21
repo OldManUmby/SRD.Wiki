@@ -1,4 +1,4 @@
-### Balor (Demon)
+# Balor (Demon)
 
 *Huge fiend (demon), chaotic evil*
 
@@ -34,7 +34,7 @@
 
 ***Magic Weapons***. The balor's weapon attacks are magical.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The balor makes two attacks: one with its longsword and one with its whip.
 

@@ -1,4 +1,4 @@
-## Kobold
+# Kobold
 
 *Small humanoid (kobold), lawful evil*
 
@@ -22,7 +22,7 @@
 
 ***Pack Tactics***. The kobold has advantage on an attack roll against a creature if at least one of the kobold's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-###### Actions
+## Actions
 
 ***Dagger***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) piercing damage.
 

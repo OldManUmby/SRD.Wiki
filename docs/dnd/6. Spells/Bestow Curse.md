@@ -1,4 +1,4 @@
-### Bestow Curse
+# Bestow Curse
 
 *3rd-level necromancy*
 

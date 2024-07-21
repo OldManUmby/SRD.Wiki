@@ -1,4 +1,4 @@
-### Chain Devil
+# Chain Devil
 
 *Medium fiend (devil), lawful evil*
 
@@ -30,7 +30,7 @@
 
 ***Magic Resistance***. The devil has advantage on saving throws against spells and other magical effects.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The devil makes two attacks with its chains.
 

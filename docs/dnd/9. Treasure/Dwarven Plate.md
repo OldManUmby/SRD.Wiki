@@ -1,4 +1,4 @@
-### Dwarven Plate
+# Dwarven Plate
 
 *Armor (plate), very rare*
 

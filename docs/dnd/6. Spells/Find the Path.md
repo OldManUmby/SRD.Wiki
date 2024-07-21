@@ -1,4 +1,4 @@
-### Find the Path
+# Find the Path
 
 *6th-level divination*
 

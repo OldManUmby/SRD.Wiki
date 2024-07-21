@@ -1,4 +1,4 @@
-### Suggestion
+# Suggestion
 
 *2nd-level enchantment*
 

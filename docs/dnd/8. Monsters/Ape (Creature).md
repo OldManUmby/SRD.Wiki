@@ -1,4 +1,4 @@
-### Ape
+# Ape
 
 *Medium beast, unaligned*
 
@@ -20,7 +20,7 @@
 
 **Challenge** 1/2 (100 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The ape makes two fist attacks.
 

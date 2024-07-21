@@ -1,4 +1,4 @@
-### Potion of Flying
+# Potion of Flying
 
 *Potion, very rare*
 

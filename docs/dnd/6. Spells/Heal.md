@@ -1,4 +1,4 @@
-### Heal
+# Heal
 
 *6th-level evocation*
 

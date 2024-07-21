@@ -1,4 +1,4 @@
-### Oathbow
+# Oathbow
 
 *Weapon (longbow), very rare (requires attunement)*
 

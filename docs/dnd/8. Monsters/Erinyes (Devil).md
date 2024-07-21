@@ -1,4 +1,4 @@
-### Erinyes (Devil)
+# Erinyes (Devil)
 
 *Medium fiend (devil), lawful evil*
 
@@ -30,7 +30,7 @@
 
 ***Magic Resistance***. The erinyes has advantage on saving throws against spells and other magical effects.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The erinyes makes three attacks.
 

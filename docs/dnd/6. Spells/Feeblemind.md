@@ -1,4 +1,4 @@
-### Feeblemind
+# Feeblemind
 
 *8th-level enchantment*
 

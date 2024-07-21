@@ -1,4 +1,4 @@
-### Goodberry
+# Goodberry
 
 *1st-level transmutation*
 

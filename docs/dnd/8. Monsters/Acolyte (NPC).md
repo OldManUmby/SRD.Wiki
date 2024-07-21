@@ -1,4 +1,4 @@
-### Acolyte
+# Acolyte
 
 *Medium humanoid (any race), any alignment*
 
@@ -25,7 +25,7 @@
 Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 1st level (3 slots): *bless*, *cure wounds*, *sanctuary*
 
-###### Actions
+## Actions
 
 ***Club***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage.
 

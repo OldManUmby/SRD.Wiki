@@ -1,4 +1,4 @@
-## Hippogriff
+# Hippogriff
 
 *Large monstrosity, unaligned*
 
@@ -22,7 +22,7 @@
 
 ***Keen Sight***. The hippogriff has advantage on Wisdom (Perception) checks that rely on sight.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The hippogriff makes two attacks: one with its beak and one with its claws.
 

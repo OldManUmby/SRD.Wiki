@@ -1,4 +1,4 @@
-### Animated Shield
+# Animated Shield
 
 *Armor (shield), very rare (requires attunement)*
 

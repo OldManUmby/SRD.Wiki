@@ -1,4 +1,4 @@
-### Potion of Water Breathing
+# Potion of Water Breathing
 
 *Potion, uncommon*
 

@@ -1,4 +1,4 @@
-### Cloak of the Manta Ray
+# Cloak of the Manta Ray
 
 *Wondrous item, uncommon*
 

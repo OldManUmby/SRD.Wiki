@@ -1,4 +1,4 @@
-## Will-o'-Wisp
+# Will-o'-Wisp
 
 *Tiny undead, chaotic evil*
 
@@ -32,7 +32,7 @@
 
 ***Variable Illumination***. The will-o'-wisp sheds bright light in a 5- to 20-foot radius and dim light for an additional number of feet equal to the chosen radius. The will-o'-wisp can alter the radius as a bonus action.
 
-###### Actions
+## Actions
 
 ***Shock***. *Melee Spell Attack:* +4 to hit, reach 5 ft., one creature. *Hit:* 9 (2d8) lightning damage.
 

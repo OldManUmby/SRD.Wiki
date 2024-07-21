@@ -1,4 +1,4 @@
-### Androsphinx (Sphinx)
+# Androsphinx (Sphinx)
 
 *Large monstrosity, lawful neutral*
 
@@ -40,7 +40,7 @@ Cantrips (at will): *sacred flame*, *spare the dying*, *thaumaturgy*
 5th level (2 slots): *flame strike*, *greater restoration*
 6th level (1 slot): *heroes' feast*
 
-###### Actions
+## Actions
 
 ***Multiattack***. The sphinx makes two claw attacks.
 

@@ -1,4 +1,4 @@
-### Cone of Cold
+# Cone of Cold
 
 *5th-level evocation*
 

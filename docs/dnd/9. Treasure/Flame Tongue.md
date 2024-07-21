@@ -1,4 +1,4 @@
-### Flame Tongue
+# Flame Tongue
 
 *Weapon (any sword), rare (requires attunement)*
 

@@ -1,4 +1,4 @@
-### Mummy
+# Mummy
 
 *Medium undead, lawful evil*
 
@@ -28,7 +28,7 @@
 
 **Challenge** 3 (700 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 

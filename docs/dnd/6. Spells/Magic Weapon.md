@@ -1,4 +1,4 @@
-### Magic Weapon
+# Magic Weapon
 
 *2nd-level transmutation*
 

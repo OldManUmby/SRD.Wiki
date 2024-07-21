@@ -1,4 +1,4 @@
-### Time Stop
+# Time Stop
 
 *9th-level transmutation*
 

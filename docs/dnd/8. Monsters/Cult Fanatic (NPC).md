@@ -1,4 +1,4 @@
-### Cult Fanatic
+# Cult Fanatic
 
 *Medium humanoid (any race), any non-good alignment*
 
@@ -28,7 +28,7 @@ Cantrips (at will): *light*, *sacred flame*, *thaumaturgy*
 1st level (4 slots): *command*, *inflict wounds*, *shield of faith*
 2nd level (3 slots): *hold person*, *spiritual weapon*
 
-###### Actions
+## Actions
 
 ***Multiattack***. The fanatic makes two melee attacks.
 

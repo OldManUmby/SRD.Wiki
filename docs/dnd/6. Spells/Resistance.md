@@ -1,4 +1,4 @@
-### Resistance
+# Resistance
 
 *Abjuration cantrip*
 

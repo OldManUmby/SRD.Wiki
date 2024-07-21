@@ -1,4 +1,4 @@
-### Gem of Brightness
+# Gem of Brightness
 
 *Wondrous item, uncommon*
 

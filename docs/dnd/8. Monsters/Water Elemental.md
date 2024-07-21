@@ -1,4 +1,4 @@
-### Water Elemental
+# Water Elemental
 
 *Large elemental, neutral*
 
@@ -28,7 +28,7 @@
 
 ***Freeze***. If the elemental takes cold damage, it partially freezes; its speed is reduced by 20 feet until the end of its next turn.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The elemental makes two slam attacks.
 

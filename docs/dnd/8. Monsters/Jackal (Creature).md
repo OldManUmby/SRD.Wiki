@@ -1,4 +1,4 @@
-### Jackal
+# Jackal
 
 *Small beast, unaligned*
 
@@ -24,6 +24,6 @@
 
 ***Pack Tactics***. The jackal has advantage on an attack roll against a creature if at least one of the jackal's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +1 to hit, reach 5 ft., one target. *Hit:* 1 (1d4-1) piercing damage.

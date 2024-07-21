@@ -1,4 +1,4 @@
-### Storm Giant
+# Storm Giant
 
 *Huge giant, chaotic good*
 
@@ -34,7 +34,7 @@ At will: *detect magic*, *feather fall*, *levitate*, *light*
 
 3/day each: *control weather*, *water breathing*
 
-###### Actions
+## Actions
 
 ***Multiattack***. The giant makes two greatsword attacks.
 

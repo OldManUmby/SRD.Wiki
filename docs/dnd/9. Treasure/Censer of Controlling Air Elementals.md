@@ -1,4 +1,4 @@
-### Censer of Controlling Air Elementals
+# Censer of Controlling Air Elementals
 
 *Wondrous item, rare*
 

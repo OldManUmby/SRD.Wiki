@@ -1,4 +1,4 @@
-### Flying Snake
+# Flying Snake
 
 *Tiny beast, unaligned*
 
@@ -20,7 +20,7 @@
 
 ***Flyby***. The snake doesn't provoke opportunity attacks when it flies out of an enemy's reach.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 1 piercing damage plus 7 (3d4) poison damage.
 

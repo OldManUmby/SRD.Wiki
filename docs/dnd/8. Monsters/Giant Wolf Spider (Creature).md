@@ -1,4 +1,4 @@
-### Giant Wolf Spider
+# Giant Wolf Spider
 
 *Medium beast, unaligned*
 
@@ -26,7 +26,7 @@
 
 ***Web Walker***. The spider ignores movement restrictions caused by webbing.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one creature. *Hit:* 4 (1d6+1) piercing damage, and the target must make a DC 11 Constitution saving throw, taking 7 (2d6) poison damage on a failed save, or half as much damage on a successful one. If the poison damage reduces the target to 0 hit points, the target is stable but poisoned for 1 hour, even after regaining hit points, and is paralyzed while poisoned in this way.
 

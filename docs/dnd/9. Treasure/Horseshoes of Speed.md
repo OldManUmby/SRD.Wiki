@@ -1,4 +1,4 @@
-### Horseshoes of Speed
+# Horseshoes of Speed
 
 *Wondrous item, rare*
 

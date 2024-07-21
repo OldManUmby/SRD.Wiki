@@ -1,4 +1,4 @@
-### Eagle
+# Eagle
 
 *Small beast, unaligned*
 
@@ -22,6 +22,6 @@
 
 ***Keen Sight***. The eagle has advantage on Wisdom (Perception) checks that rely on sight.
 
-###### Actions
+## Actions
 
 ***Talons***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 4 (1d4+2) slashing damage.

@@ -1,4 +1,4 @@
-### Ochre Jelly (Ooze)
+# Ochre Jelly (Ooze)
 
 *Large ooze, unaligned*
 
@@ -28,7 +28,7 @@
 
 ***Spider Climb***. The jelly can climb difficult surfaces, including upside down on ceilings, without needing to make an ability check.
 
-###### Actions
+## Actions
 
 ***Pseudopod***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 9 (2d6+2) bludgeoning damage plus 3 (1d6) acid damage.
 

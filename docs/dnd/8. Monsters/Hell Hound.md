@@ -1,4 +1,4 @@
-## Hell Hound
+# Hell Hound
 
 *Medium fiend, lawful evil*
 
@@ -26,7 +26,7 @@
 
 ***Pack Tactics***. The hound has advantage on an attack roll against a creature if at least one of the hound's allies is within 5 feet of the creature and the ally isn't incapacitated.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 7 (1d8+3) piercing damage plus 7 (2d6) fire damage.
 

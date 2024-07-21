@@ -1,4 +1,4 @@
-## Griffon
+# Griffon
 
 *Large monstrosity, unaligned*
 
@@ -22,7 +22,7 @@
 
 ***Keen Sight***. The griffon has advantage on Wisdom (Perception) checks that rely on sight.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The griffon makes two attacks: one with its beak and one with its claws.
 

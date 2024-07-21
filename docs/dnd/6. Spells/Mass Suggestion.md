@@ -1,4 +1,4 @@
-### Mass Suggestion
+# Mass Suggestion
 
 *6th-level enchantment*
 

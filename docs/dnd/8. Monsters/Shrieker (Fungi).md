@@ -1,4 +1,4 @@
-### Shrieker (Fungi)
+# Shrieker (Fungi)
 
 *Medium plant, unaligned*
 

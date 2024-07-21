@@ -1,4 +1,4 @@
-### Giant Shark
+# Giant Shark
 
 *Huge beast, unaligned*
 
@@ -24,7 +24,7 @@
 
 ***Water Breathing***. The shark can breathe only underwater.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 22 (3d10+6) piercing damage.
 

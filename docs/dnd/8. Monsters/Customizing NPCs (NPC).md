@@ -1,4 +1,4 @@
-### Customizing NPCs
+# Customizing NPCs
 
 There are many easy ways to customize the NPCs in this appendix for your home campaign.
 

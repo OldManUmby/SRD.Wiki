@@ -1,4 +1,4 @@
-### Berserker
+# Berserker
 
 *Medium humanoid (any race), any chaotic alignment*
 
@@ -20,7 +20,7 @@
 
 ***Reckless***. At the start of its turn, the berserker can gain advantage on all melee weapon attack rolls during that turn, but attack rolls against it have advantage until the start of its next turn.
 
-###### Actions
+## Actions
 
 ***Greataxe***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12 + 3) slashing damage.
 

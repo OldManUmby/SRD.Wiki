@@ -1,4 +1,4 @@
-### Fire Elemental
+# Fire Elemental
 
 *Large elemental, neutral*
 
@@ -30,7 +30,7 @@
 
 ***Water Susceptibility***. For every 5 feet the elemental moves in water, or for every gallon of water splashed on it, it takes 1 cold damage.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The elemental makes two touch attacks.
 

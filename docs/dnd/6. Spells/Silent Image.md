@@ -1,4 +1,4 @@
-### Silent Image
+# Silent Image
 
 *1st-level illusion*
 

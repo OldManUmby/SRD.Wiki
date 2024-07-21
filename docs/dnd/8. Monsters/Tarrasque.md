@@ -1,4 +1,4 @@
-## Tarrasque
+# Tarrasque
 
 *Gargantuan monstrosity (titan), unaligned*
 
@@ -32,7 +32,7 @@
 
 ***Siege Monster***. The tarrasque deals double damage to objects and structures.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The tarrasque can use its Frightful Presence. It then makes five attacks: one with its bite, two with its claws, one with its horns, and one with its tail. It can use its Swallow instead of its bite.
 

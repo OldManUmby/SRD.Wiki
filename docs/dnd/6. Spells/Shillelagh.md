@@ -1,4 +1,4 @@
-### Shillelagh
+# Shillelagh
 
 *Transmutation cantrip*
 

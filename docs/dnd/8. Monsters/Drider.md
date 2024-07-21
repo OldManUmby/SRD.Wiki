@@ -1,4 +1,4 @@
-## Drider
+# Drider
 
 *Large monstrosity, chaotic evil*
 
@@ -34,7 +34,7 @@ At will: *dancing lights*
 
 ***Web Walker***. The drider ignores movement restrictions caused by webbing.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The drider makes three attacks, either with its longsword or its longbow. It can replace one of those attacks with a bite attack.
 

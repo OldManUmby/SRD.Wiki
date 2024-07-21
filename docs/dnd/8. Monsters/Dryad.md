@@ -1,4 +1,4 @@
-## Dryad
+# Dryad
 
 *Medium fey, neutral*
 
@@ -34,7 +34,7 @@ At will: *druidcraft*
 
 ***Tree Stride***. Once on her turn, the dryad can use 10 feet of her movement to step magically into one living tree within her reach and emerge from a second living tree within 60 feet of the first tree, appearing in an unoccupied space within 5 feet of the second tree. Both trees must be Large or bigger.
 
-###### Actions
+## Actions
 
 ***Club***. *Melee Weapon Attack:* +2 to hit (+6 to hit with *shillelagh*), reach 5 ft., one target. *Hit:* 2 (1d4) bludgeoning damage, or 8 (1d8+4) bludgeoning damage with *shillelagh*.
 

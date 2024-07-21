@@ -1,4 +1,4 @@
-### Antipathy/Sympathy
+# Antipathy/Sympathy
 
 *8th-level enchantment*
 

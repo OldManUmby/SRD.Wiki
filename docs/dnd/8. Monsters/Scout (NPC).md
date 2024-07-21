@@ -1,4 +1,4 @@
-### Scout
+# Scout
 
 *Medium humanoid (any race), any alignment*
 
@@ -22,7 +22,7 @@
 
 ***Keen Hearing and Sight***. The scout has advantage on Wisdom (Perception) checks that rely on hearing or sight.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The scout makes two melee attacks or two ranged attacks.
 

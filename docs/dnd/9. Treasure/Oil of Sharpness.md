@@ -1,4 +1,4 @@
-### Oil of Sharpness
+# Oil of Sharpness
 
 *Potion, very rare*
 

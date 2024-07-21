@@ -1,4 +1,4 @@
-### Programmed Illusion
+# Programmed Illusion
 
 *6th-level illusion*
 

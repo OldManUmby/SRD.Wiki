@@ -1,4 +1,4 @@
-### Magic Circle
+# Magic Circle
 
 *3rd-level abjuration*
 

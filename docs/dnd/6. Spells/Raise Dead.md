@@ -1,4 +1,4 @@
-### Raise Dead
+# Raise Dead
 
 *5th-level necromancy*
 

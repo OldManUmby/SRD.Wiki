@@ -1,4 +1,4 @@
-### Mind Blank
+# Mind Blank
 
 *8th-level abjuration*
 

@@ -1,4 +1,4 @@
-### Minotaur Skeleton
+# Minotaur Skeleton
 
 *Large undead, lawful evil*
 
@@ -26,7 +26,7 @@
 
 ***Charge***. If the skeleton moves at least 10 feet straight toward a target and then hits it with a gore attack on the same turn, the target takes an extra 9 (2d8) piercing damage. If the target is a creature, it must succeed on a DC 14 Strength saving throw or be pushed up to 10 feet away and knocked prone.
 
-###### Actions
+## Actions
 
 ***Greataxe***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 17 (2d12+4) slashing damage.
 

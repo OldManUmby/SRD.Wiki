@@ -1,4 +1,4 @@
-### Control Weather
+# Control Weather
 
 *8th-level transmutation*
 

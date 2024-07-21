@@ -1,4 +1,4 @@
-### Ring of Warmth
+# Ring of Warmth
 
 *Ring, uncommon (requires attunement)*
 

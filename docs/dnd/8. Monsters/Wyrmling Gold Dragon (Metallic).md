@@ -26,7 +26,7 @@
 
 ***Amphibious***. The dragon can breathe air and water.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 9 (1d10+4) piercing damage.
 

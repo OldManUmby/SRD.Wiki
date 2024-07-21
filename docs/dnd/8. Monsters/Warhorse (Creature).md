@@ -1,4 +1,4 @@
-### Warhorse
+# Warhorse
 
 *Large beast, unaligned*
 
@@ -20,6 +20,6 @@
 
 ***Trampling Charge***. If the horse moves at least 20 feet straight toward a creature and then hits it with a hooves attack on the same turn, that target must succeed on a DC 14 Strength saving throw or be knocked prone. If the target is prone, the horse can make another attack with its hooves against it as a bonus action.
 
-###### Actions
+## Actions
 
 ***Hooves***. *Melee Weapon Attack:* +6 to hit, reach 5 ft., one target. *Hit:* 11 (2d6+4) bludgeoning damage.

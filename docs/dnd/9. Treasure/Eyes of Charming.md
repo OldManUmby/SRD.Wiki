@@ -1,4 +1,4 @@
-### Eyes of Charming
+# Eyes of Charming
 
 *Wondrous item, uncommon (requires attunement)*
 

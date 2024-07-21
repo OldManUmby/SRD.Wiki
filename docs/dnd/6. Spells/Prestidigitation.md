@@ -1,4 +1,4 @@
-### Prestidigitation
+# Prestidigitation
 
 *Transmutation cantrip*
 

@@ -1,4 +1,4 @@
-### Restorative Ointment
+# Restorative Ointment
 
 *Wondrous item, uncommon*
 

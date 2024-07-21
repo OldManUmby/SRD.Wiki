@@ -1,4 +1,4 @@
-### Wand of the War Mage, +1, +2, or +3
+# Wand of the War Mage, +1, +2, or +3
 
 *Wand, uncommon (+1), rare (+2), or very rare (+3) (requires attunement by a spellcaster)*
 

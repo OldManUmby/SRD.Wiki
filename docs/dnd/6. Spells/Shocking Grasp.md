@@ -1,4 +1,4 @@
-### Shocking Grasp
+# Shocking Grasp
 
 *Evocation cantrip*
 

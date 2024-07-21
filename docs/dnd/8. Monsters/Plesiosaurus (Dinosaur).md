@@ -1,4 +1,4 @@
-### Plesiosaurus (Dinosaur)
+# Plesiosaurus (Dinosaur)
 
 *Large beast, unaligned*
 
@@ -22,6 +22,6 @@
 
 ***Hold Breath***. The plesiosaurus can hold its breath for 1 hour.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one target. *Hit:* 14 (3d6+4) piercing damage.

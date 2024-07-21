@@ -1,4 +1,4 @@
-### Vampire Spawn
+# Vampire Spawn
 
 *Medium undead, neutral evil*
 
@@ -38,7 +38,7 @@
 
 *Sunlight Hypersensitivity*. The vampire takes 20 radiant damage when it starts its turn in sunlight. While in sunlight, it has disadvantage on attack rolls and ability checks.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The vampire makes two attacks, only one of which can be a bite attack.
 

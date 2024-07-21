@@ -1,4 +1,4 @@
-### Potion of Mind Reading
+# Potion of Mind Reading
 
 *Potion, rare*
 

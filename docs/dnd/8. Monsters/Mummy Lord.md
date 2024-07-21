@@ -1,4 +1,4 @@
-### Mummy Lord
+# Mummy Lord
 
 *Medium undead, lawful evil*
 
@@ -42,7 +42,7 @@ Cantrips (at will): *sacred flame*, *thaumaturgy*
 5th level (2 slots): *contagion*, *insect plague*
 6th level (1 slot): *harm*
 
-###### Actions
+## Actions
 
 ***Multiattack***. The mummy can use its Dreadful Glare and makes one attack with its rotting fist.
 

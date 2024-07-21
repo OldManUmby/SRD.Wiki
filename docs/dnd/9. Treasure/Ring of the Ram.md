@@ -1,4 +1,4 @@
-### Ring of the Ram
+# Ring of the Ram
 
 *Ring, rare (requires attunement)*
 

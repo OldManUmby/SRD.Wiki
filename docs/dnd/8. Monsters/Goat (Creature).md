@@ -1,4 +1,4 @@
-### Goat
+# Goat
 
 *Medium beast, unaligned*
 
@@ -22,6 +22,6 @@
 
 ***Sure-Footed***. The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-###### Actions
+## Actions
 
 ***Ram***. *Melee Weapon Attack:* +3 to hit, reach 5 ft., one target. *Hit:* 3 (1d4+1) bludgeoning damage.

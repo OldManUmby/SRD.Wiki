@@ -1,4 +1,4 @@
-### Etherealness
+# Etherealness
 
 *7th-level transmutation*
 

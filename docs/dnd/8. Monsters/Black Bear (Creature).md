@@ -1,4 +1,4 @@
-### Black Bear
+# Black Bear
 
 *Medium beast, unaligned*
 
@@ -22,7 +22,7 @@
 
 ***Keen Smell***. The bear has advantage on Wisdom (Perception) checks that rely on smell.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The bear makes two attacks: one with its bite and one with its claws.
 

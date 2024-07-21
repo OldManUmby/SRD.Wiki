@@ -1,4 +1,4 @@
-## Treant
+# Treant
 
 *Huge plant, chaotic good*
 
@@ -26,7 +26,7 @@
 
 ***Siege Monster***. The treant deals double damage to objects and structures.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The treant makes two slam attacks.
 

@@ -1,4 +1,4 @@
-### Tome of Understanding
+# Tome of Understanding
 
 *Wondrous item, very rare*
 

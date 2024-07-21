@@ -1,4 +1,4 @@
-### Night Hag
+# Night Hag
 
 *Medium fiend, neutral evil*
 
@@ -32,7 +32,7 @@ At will: *detect magic*, *magic missile*
 
 ***Magic Resistance***. The hag has advantage on saving throws against spells and other magical effects.
 
-###### Actions
+## Actions
 
 ***Claws (Hag Form Only)***. *Melee Weapon Attack:* +7 to hit, reach 5 ft., one target. *Hit:* 13 (2d8+4) slashing damage.
 

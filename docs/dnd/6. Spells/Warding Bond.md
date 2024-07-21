@@ -1,4 +1,4 @@
-### Warding Bond
+# Warding Bond
 
 *2nd-level abjuration*
 

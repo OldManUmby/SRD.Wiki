@@ -1,4 +1,4 @@
-### Ring of Three Wishes
+# Ring of Three Wishes
 
 *Ring, legendary*
 

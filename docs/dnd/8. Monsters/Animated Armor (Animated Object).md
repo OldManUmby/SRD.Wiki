@@ -1,4 +1,4 @@
-### Animated Armor (Animated Object)
+# Animated Armor (Animated Object)
 
 *Medium construct, unaligned*
 
@@ -28,7 +28,7 @@ Constitution saving throw against the caster's spell save DC or fall unconscious
 
 ***False Appearance***. While the armor remains motionless, it is indistinguishable from a normal suit of armor.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The armor makes two melee attacks.
 

@@ -1,4 +1,4 @@
-### Rope of Climbing
+# Rope of Climbing
 
 *Wondrous item, uncommon*
 

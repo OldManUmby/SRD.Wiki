@@ -1,4 +1,4 @@
-### Rod of Absorption
+# Rod of Absorption
 
 *Rod, very rare (requires attunement)*
 

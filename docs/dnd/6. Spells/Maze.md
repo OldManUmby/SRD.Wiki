@@ -1,4 +1,4 @@
-### Maze
+# Maze
 
 *8th-level conjuration*
 

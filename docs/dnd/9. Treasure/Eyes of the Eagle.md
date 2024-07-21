@@ -1,4 +1,4 @@
-### Eyes of the Eagle
+# Eyes of the Eagle
 
 *Wondrous item, uncommon (requires attunement)*
 

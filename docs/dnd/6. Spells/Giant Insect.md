@@ -1,4 +1,4 @@
-### Giant Insect
+# Giant Insect
 
 *4th-level transmutation*
 

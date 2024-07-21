@@ -1,4 +1,4 @@
-### Marilith (Demon)
+# Marilith (Demon)
 
 *Large fiend (demon), chaotic evil*
 
@@ -32,7 +32,7 @@
 
 ***Reactive***. The marilith can take one reaction on every turn in a combat.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The marilith makes seven attacks: six with its longswords and one with its tail.
 

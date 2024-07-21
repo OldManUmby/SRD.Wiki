@@ -1,4 +1,4 @@
-### Bandit Captain
+# Bandit Captain
 
 *Medium humanoid (any race), any non-lawful alignment*
 
@@ -22,7 +22,7 @@
 
 **Challenge** 2 (450 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The captain makes three melee attacks: two with its scimitar and one with its dagger. Or the captain makes two ranged attacks with its daggers.
 

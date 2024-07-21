@@ -1,4 +1,4 @@
-### Gynosphinx (Sphinx)
+# Gynosphinx (Sphinx)
 
 *Large monstrosity, lawful neutral*
 
@@ -39,7 +39,7 @@ Cantrips (at will): *mage hand*, *minor illusion*, *prestidigitation*
 4th level (3 slots): *banishment*, *greater invisibility*
 5th level (1 slot): *legend lore*
 
-###### Actions
+## Actions
 
 ***Multiattack***. The sphinx makes two claw attacks.
 

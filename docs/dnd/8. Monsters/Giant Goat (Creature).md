@@ -1,4 +1,4 @@
-### Giant Goat
+# Giant Goat
 
 *Large beast, unaligned*
 
@@ -22,6 +22,6 @@
 
 ***Sure-Footed***. The goat has advantage on Strength and Dexterity saving throws made against effects that would knock it prone.
 
-###### Actions
+## Actions
 
 ***Ram***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 8 (2d4+3) bludgeoning damage.

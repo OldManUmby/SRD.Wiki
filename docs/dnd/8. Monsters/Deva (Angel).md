@@ -1,4 +1,4 @@
-### Deva (Angel)
+# Deva (Angel)
 
 *Medium celestial, lawful good*
 
@@ -36,7 +36,7 @@ At will: *detect evil and good*
 
 ***Magic Resistance***. The deva has advantage on saving throws against spells and other magical effects.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The deva makes two melee attacks.
 

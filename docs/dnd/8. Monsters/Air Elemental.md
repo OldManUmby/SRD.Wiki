@@ -1,4 +1,4 @@
-### Air Elemental
+# Air Elemental
 
 *Large elemental, neutral*
 
@@ -26,7 +26,7 @@
 
 ***Air Form***. The elemental can enter a hostile creature's space and stop there. It can move through a space as narrow as 1 inch wide without squeezing.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The elemental makes two slam attacks.
 

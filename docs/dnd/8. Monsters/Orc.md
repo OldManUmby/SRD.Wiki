@@ -1,4 +1,4 @@
-## Orc
+# Orc
 
 *Medium humanoid (orc), chaotic evil*
 
@@ -22,7 +22,7 @@
 
 ***Aggressive***. As a bonus action, the orc can move up to its speed toward a hostile creature that it can see.
 
-###### Actions
+## Actions
 
 ***Greataxe***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 9 (1d12+3) slashing damage.
 

@@ -1,4 +1,4 @@
-### True Resurrection
+# True Resurrection
 
 *9th-level necromancy*
 

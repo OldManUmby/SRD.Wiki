@@ -1,4 +1,4 @@
-### Alarm
+# Alarm
 
 *1st-level abjuration (ritual)*
 

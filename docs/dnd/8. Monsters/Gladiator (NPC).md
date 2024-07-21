@@ -1,4 +1,4 @@
-### Gladiator
+# Gladiator
 
 *Medium humanoid (any race), any alignment*
 
@@ -26,7 +26,7 @@
 
 ***Brute***. A melee weapon deals one extra die of its damage when the gladiator hits with it (included in the attack).
 
-###### Actions
+## Actions
 
 ***Multiattack***. The gladiator makes three melee attacks or two ranged attacks.
 

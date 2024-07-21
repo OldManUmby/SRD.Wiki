@@ -1,4 +1,4 @@
-### Contact Other Plane
+# Contact Other Plane
 
 *5th-level divination (ritual)*
 

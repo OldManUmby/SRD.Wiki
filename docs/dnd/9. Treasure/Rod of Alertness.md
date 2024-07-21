@@ -1,4 +1,4 @@
-### Rod of Alertness
+# Rod of Alertness
 
 *Rod, very rare (requires attunement)*
 

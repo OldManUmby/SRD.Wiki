@@ -1,4 +1,4 @@
-## Ettercap
+# Ettercap
 
 *Medium monstrosity, neutral evil*
 
@@ -26,7 +26,7 @@
 
 ***Web Walker***. The ettercap ignores movement restrictions caused by webbing.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The ettercap makes two attacks: one with its bite and one with its claws.
 

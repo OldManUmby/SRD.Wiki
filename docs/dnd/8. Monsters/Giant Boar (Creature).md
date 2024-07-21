@@ -1,4 +1,4 @@
-### Giant Boar
+# Giant Boar
 
 *Large beast, unaligned*
 
@@ -22,6 +22,6 @@
 
 ***Relentless (Recharges after a Short or Long Rest)***. If the boar takes 10 damage or less that would reduce it to 0 hit points, it is reduced to 1 hit point instead.
 
-###### Actions
+## Actions
 
 ***Tusk***. *Melee Weapon Attack:* +5 to hit, reach 5 ft., one target. *Hit:* 10 (2d6+3) slashing damage.

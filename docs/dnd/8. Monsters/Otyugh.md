@@ -1,4 +1,4 @@
-## Otyugh
+# Otyugh
 
 *Large aberration, neutral*
 
@@ -22,7 +22,7 @@
 
 ***Limited Telepathy***. The otyugh can magically transmit simple messages and images to any creature within 120 feet of it that can understand a language. This form of telepathy doesn't allow the receiving creature to telepathically respond.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The otyugh makes three attacks: one with its bite and two with its tentacles.
 

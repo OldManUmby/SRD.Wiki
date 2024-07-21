@@ -1,4 +1,4 @@
-### Giant Constrictor Snake
+# Giant Constrictor Snake
 
 *Huge beast, unaligned*
 
@@ -20,7 +20,7 @@
 
 **Challenge** 2 (450 XP)
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +6 to hit, reach 10 ft., one creature. *Hit:* 11 (2d6+4) piercing damage.
 

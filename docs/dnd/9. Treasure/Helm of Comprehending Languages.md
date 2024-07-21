@@ -1,4 +1,4 @@
-### Helm of Comprehending Languages
+# Helm of Comprehending Languages
 
 *Wondrous item, uncommon*
 

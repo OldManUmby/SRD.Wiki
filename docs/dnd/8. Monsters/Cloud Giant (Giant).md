@@ -1,4 +1,4 @@
-### Cloud Giant
+# Cloud Giant
 
 *Huge giant, neutral good (50%) or neutral evil (50%)*
 
@@ -32,7 +32,7 @@ At will: *detect magic*, *fog cloud*, *light*
 
 1/day each: *control weather*, *gaseous form*
 
-###### Actions
+## Actions
 
 ***Multiattack***. The giant makes two morningstar attacks.
 

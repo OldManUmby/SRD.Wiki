@@ -1,4 +1,4 @@
-### Horned Devil
+# Horned Devil
 
 *Large fiend (devil), lawful evil*
 
@@ -30,7 +30,7 @@
 
 ***Magic Resistance***. The devil has advantage on saving throws against spells and other magical effects.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The devil makes three melee attacks: two with its fork and one with its tail. It can use Hurl Flame in place of any melee attack.
 

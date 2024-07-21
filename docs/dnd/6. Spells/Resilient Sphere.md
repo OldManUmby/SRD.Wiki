@@ -1,4 +1,4 @@
-### Resilient Sphere
+# Resilient Sphere
 
 *4th-level evocation*
 

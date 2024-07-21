@@ -1,4 +1,4 @@
-## Sahuagin
+# Sahuagin
 
 *Medium humanoid (sahuagin), lawful evil*
 
@@ -26,7 +26,7 @@
 
 ***Shark Telepathy***. The sahuagin can magically command any shark within 120 feet of it, using a limited telepathy.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The sahuagin makes two melee attacks: one with its bite and one with its claws or spear.
 

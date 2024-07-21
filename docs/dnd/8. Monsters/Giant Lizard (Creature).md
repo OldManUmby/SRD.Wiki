@@ -1,4 +1,4 @@
-### Giant Lizard
+# Giant Lizard
 
 *Large beast, unaligned*
 
@@ -18,7 +18,7 @@
 
 **Challenge** 1/4 (50 XP)
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 6 (1d8+2) piercing damage.
 

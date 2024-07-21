@@ -1,4 +1,4 @@
-## Sprite
+# Sprite
 
 *Tiny fey, neutral good*
 
@@ -20,7 +20,7 @@
 
 **Challenge** 1/4 (50 XP)
 
-###### Actions
+## Actions
 
 ***Longsword***. *Melee Weapon Attack:* +2 to hit, reach 5 ft., one target. *Hit:* 1 slashing damage.
 

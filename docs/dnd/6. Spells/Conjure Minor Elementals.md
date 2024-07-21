@@ -1,4 +1,4 @@
-### Conjure Minor Elementals
+# Conjure Minor Elementals
 
 *4th-level conjuration*
 

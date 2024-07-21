@@ -1,4 +1,4 @@
-## Salamander
+# Salamander
 
 *Large elemental, neutral evil*
 
@@ -28,7 +28,7 @@
 
 ***Heated Weapons***. Any metal melee weapon the salamander wields deals an extra 3 (1d6) fire damage on a hit (included in the attack).
 
-###### Actions
+## Actions
 
 ***Multiattack***. The salamander makes two attacks: one with its spear and one with its tail.
 

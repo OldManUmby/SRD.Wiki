@@ -1,4 +1,4 @@
-### Oil of Etherealness
+# Oil of Etherealness
 
 *Potion, rare*
 

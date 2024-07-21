@@ -1,4 +1,4 @@
-### Ring of Animal Influence
+# Ring of Animal Influence
 
 *Ring, rare*
 

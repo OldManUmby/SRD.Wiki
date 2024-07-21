@@ -1,4 +1,4 @@
-### Conjure Celestial
+# Conjure Celestial
 
 *7th-level conjuration*
 

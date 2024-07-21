@@ -1,4 +1,4 @@
-### Confusion
+# Confusion
 
 *4th-level enchantment*
 

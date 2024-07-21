@@ -1,4 +1,4 @@
-### Crystal Ball
+# Crystal Ball
 
 *Wondrous item, very rare or legendary (requires attunement)*
 

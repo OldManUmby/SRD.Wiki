@@ -1,4 +1,4 @@
-## Chimera
+# Chimera
 
 *Large monstrosity, chaotic evil*
 
@@ -20,7 +20,7 @@
 
 **Challenge** 6 (2,300 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The chimera makes three attacks: one with its bite, one with its horns, and one with its claws. When its fire breath is available, it can use the breath in place of its bite or horns.
 

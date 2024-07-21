@@ -1,4 +1,4 @@
-### Planar Binding
+# Planar Binding
 
 *5th-level abjuration*
 

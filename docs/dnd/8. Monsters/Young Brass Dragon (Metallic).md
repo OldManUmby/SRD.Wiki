@@ -24,7 +24,7 @@
 
 **Challenge** 6 (2,300 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The dragon makes three attacks: one with its bite and two with its claws.
 

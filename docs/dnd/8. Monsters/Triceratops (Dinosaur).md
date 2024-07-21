@@ -1,4 +1,4 @@
-### Triceratops (Dinosaur)
+# Triceratops (Dinosaur)
 
 *Huge beast, unaligned*
 
@@ -22,7 +22,7 @@
 
 If the target is prone, the triceratops can make one stomp attack against it as a bonus action.
 
-###### Actions
+## Actions
 
 ***Gore***. *Melee Weapon Attack:* +9 to hit, reach 5 ft., one target. *Hit:* 24 (4d8+6) piercing damage.
 

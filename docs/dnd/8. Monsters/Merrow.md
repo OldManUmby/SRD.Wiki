@@ -1,4 +1,4 @@
-## Merrow
+# Merrow
 
 *Large monstrosity, chaotic evil*
 
@@ -20,7 +20,7 @@
 
 ***Amphibious***. The merrow can breathe air and water.
 
-###### Actions
+## Actions
 
 ***Multiattack***. The merrow makes two attacks: one with its bite and one with its claws or harpoon.
 

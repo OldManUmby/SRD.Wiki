@@ -1,4 +1,4 @@
-### Phantom Steed
+# Phantom Steed
 
 *3rd-level illusion (ritual)*
 

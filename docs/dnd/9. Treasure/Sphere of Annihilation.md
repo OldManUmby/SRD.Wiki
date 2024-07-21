@@ -1,4 +1,4 @@
-### Sphere of Annihilation
+# Sphere of Annihilation
 
 *Wondrous item, legendary*
 

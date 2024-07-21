@@ -1,4 +1,4 @@
-### Skeleton
+# Skeleton
 
 *Medium undead, lawful evil*
 
@@ -24,7 +24,7 @@
 
 **Challenge** 1/4 (50 XP)
 
-###### Actions
+## Actions
 
 ***Shortsword***. *Melee Weapon Attack:* +4 to hit, reach 5 ft., one target. *Hit:* 5 (1d6+2) piercing damage.
 

@@ -1,4 +1,4 @@
-### Dancing Lights
+# Dancing Lights
 
 *Evocation cantrip*
 

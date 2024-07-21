@@ -1,4 +1,4 @@
-### Animate Dead
+# Animate Dead
 
 *3rd-level necromancy*
 

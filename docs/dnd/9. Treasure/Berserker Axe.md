@@ -1,4 +1,4 @@
-### Berserker Axe
+# Berserker Axe
 
 *Weapon (any axe), rare (requires attunement)*
 

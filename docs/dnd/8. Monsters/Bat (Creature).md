@@ -1,4 +1,4 @@
-### Bat
+# Bat
 
 *Tiny beast, unaligned*
 
@@ -22,6 +22,6 @@
 
 ***Keen Hearing***. The bat has advantage on Wisdom (Perception) checks that rely on hearing.
 
-###### Actions
+## Actions
 
 ***Bite***. *Melee Weapon Attack:* +0 to hit, reach 5 ft., one creature. *Hit:* 1 piercing damage.

@@ -1,4 +1,4 @@
-### Sea Horse
+# Sea Horse
 
 *Tiny beast, unaligned*
 

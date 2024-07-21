@@ -1,4 +1,4 @@
-### Giant Ape
+# Giant Ape
 
 *Huge beast, unaligned*
 
@@ -20,7 +20,7 @@
 
 **Challenge** 7 (2,900 XP)
 
-###### Actions
+## Actions
 
 ***Multiattack***. The ape makes two fist attacks.
 
