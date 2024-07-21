@@ -43,6 +43,7 @@
 /*  Navigation tabs */
 .md-tabs__list {
     justify-content: left;
+    text-transform: uppercase;
 }
 
 .md-tabs__item {
