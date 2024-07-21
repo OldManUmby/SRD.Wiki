@@ -1,4 +1,4 @@
-# SPELL LISTS
+# Spell Lists
 
 ## Bard Spells
 

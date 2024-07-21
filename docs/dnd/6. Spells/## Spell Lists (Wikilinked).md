@@ -1,4 +1,4 @@
-# SPELL LISTS (Alternate)
+# Spell Lists (Alternate)
 
 Spell names are wikilinked for use in a a PKM application, like [Obsidian](https://obsidian.md).
 
